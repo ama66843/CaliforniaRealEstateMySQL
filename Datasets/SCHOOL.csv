@@ -1,0 +1,771 @@
+CD Code,County,District,Street,City,Zip,State,Phone ,Ext  ,AdmFName,AdmLName,AdmEmail,avg_API
+1964733,Los Angeles,Los Angeles Unified,333 South Beaudry Avenue,Los Angeles,90017,CA,(213) 241-1000,No Data,Austin,Beutner,austin.beutner@lausd.net,811
+1976547,Los Angeles,SBE - Barack Obama Charter,13305 South San Pedro Avenue,Los Angeles,90061,CA,(323) 566-1965,No Data,David,Langford,dlangford@ingeniumschools.org,695
+161119,Alameda,Alameda Unified,2060 Challenger Dr,Alameda,94501,CA,(510) 337-7000,No Data,Sean,McPhetridge,smcphetridge@alamedaunified.org,905
+1975663,Los Angeles,SBE - New West Charter,11625 West Pico Boulevard,West Los Angeles,90064,CA,(310) 943-5444,No Data,Sharon,Weir,sweir@newwestcharter.org,928
+161127,Alameda,Albany City Unified,819 Bancroft Way,Berkeley,94710,CA,(510) 558-3750,No Data,Valerie,Williams,vwilliams@ausdk12.org,854
+161143,Alameda,Berkeley Unified,2020 Bonar Street,Berkeley,94702,CA,(510) 644-8764,No Data,Brent,Stephens,brentstephens@berkeley.net,735
+1964311,Los Angeles,Beverly Hills Unified,255 South Lasky Drive,Beverly Hills,90212,CA,(310) 551-5100,2210,Michael,Bregy,mbregy@bhusd.org,868
+161150,Alameda,Castro Valley Unified,4400 Alma Avenue,Castro Valley,94546,CA,(510) 537-3000,1240,Parvin,Ahmadi,pahmadi@cv.k12.ca.us,820
+161168,Alameda,Emery Unified,4727 San Pablo Avenue,Emeryville,94608,CA,(510) 601-4906,No Data,Quiauna,Scott,quiauna.scott@emeryusd.org,633
+1973437,Los Angeles,Compton Unified,501 South Santa Fe Avenue,Compton,90221,CA,(310) 639-4321,55125,Darin,Brawley,dbrawley@compton.k12.ca.us,573
+1964444,Los Angeles,Culver City Unified,4034 Irving Place,Culver City,90232,CA,(310) 842-4220,No Data,Leslie,Lockhart,leslielockhart@ccusd.org,822
+1964451,Los Angeles,Downey Unified,11627 Brookshire Avenue,Downey,90241,CA,(562) 469-6500,No Data,John,Garcia. Ph.D.,jgarcia@dusd.net,558
+161200,Alameda,Livermore Valley Joint Unified,685 East Jack London Boulevard,Livermore,94551,CA,(925) 606-3200,No Data,Kelly,Bowers,kbowers@lvjusd.k12.ca.us,644
+161218,Alameda,Mountain House Elementary,3950 Mountain House Road,Byron,94514,CA,(209) 835-2283,No Data,Marianne,Griffith,marijam@wildblue.net,754
+1964535,Los Angeles,El Segundo Unified,641 Sheldon Street,El Segundo,90245,CA,(310) 615-2650,No Data,Melissa,Moore,mmoore@esusd.k12.ca.us,883
+161234,Alameda,Newark Unified,5715 Musick Avenue,Newark,94560,CA,(510) 818-4103,No Data,Partick,Sanchez,psanchez@newarkunified.org,755
+1964592,Los Angeles,Hawthorne,14120 South Hawthorne Boulevard,Hawthorne,90250,CA,(310) 676-2276,No Data,Helen,Morgan,hmorgan@hawthorne.k12.ca.us,890
+161242,Alameda,New Haven Unified,34200 Alvarado-Niles Road,Union City,94587,CA,(510) 471-1100,62622,John,Thompson,jthompson@nhusd.k12.ca.us,574
+1964600,Los Angeles,Hermosa Beach City Elementary,425 Valley Drive,Hermosa Beach,90254,CA,(310) 937-5877,246,Patricia,Escalante,pescalante@hbcsd.org,725
+161259,Alameda,Oakland Unified,1000 Broadway  Suite 680,Oakland,94607,CA,(510) 434-7790,No Data,Kyla,Johnson-Trammell,kyla.johnson@ousd.org,725
+1964352,Los Angeles,Centinela Valley Union High,14901 South Inglewood Avenue,Lawndale,90260,CA,(310) 263-3200,No Data,Gregory,O'Brien,obrieng@centinela.k12.ca.us,662
+161275,Alameda,Piedmont City Unified,760 Magnolia Avenue,Piedmont,94611,CA,(510) 594-2600,No Data,Randall,Booker,rbooker@piedmont.k12.ca.us,914
+1964774,Los Angeles,Lynwood Unified,11321 Bullis Road,Lynwood,90262,CA,(310) 886-1600,No Data,Gudiel,Crosthwaite,gcrosthwaite@mylusd.org,765
+161291,Alameda,San Leandro Unified,835 East 14th Street  Suite 200,San Leandro,94577,CA,(510) 667-3500,No Data,Mike,McLaughlin,mmclaughlin@slusd.us,519
+1975333,Los Angeles,Manhattan Beach Unified,325 South Peck Avenue,Manhattan Beach,90266,CA,(310) 318-7345,5902,Michael,Matthews,mmatthews@mbusd.org,912
+161309,Alameda,San Lorenzo Unified,15510 Usher Street,San Lorenzo,94580,CA,(510) 317-4600,No Data,Daryl,Camp,dcamp@slzusd.org,901
+1964865,Los Angeles,Palos Verdes Peninsula Unified,375 Via Almar,Palos Verdes Estates,90274,CA,(310) 378-9966,404,Alex,Cherniss,chernissa@pvpusd.net,541
+175093,Alameda,Dublin Unified,7471 Larkdale Avenue,Dublin,94568,CA,(925) 828-2551,No Data,Dave,Marken,markendave@dublinusd.org,959
+1975341,Los Angeles,Redondo Beach Unified,1401 Inglewood Avenue,Redondo Beach,90278,CA,(310) 379-5449,No Data,Steven,Keller,skeller@rbusd.org,851
+175101,Alameda,Pleasanton Unified,4665 Bernal Avenue,Pleasanton,94566,CA,(925) 462-5500,No Data,David,Haglund,dhaglund@pleasantonusd.net,880
+1964634,Los Angeles,Inglewood Unified,401 South Inglewood Avenue,Inglewood,90301,CA,(310) 419-2700,No Data,Thelma,Melendez,thelma.melendez@inglewood.k12.ca.us,926
+175119,Alameda,Sunol Glen Unified,11601 Main Street,Sunol,94586,CA,(925) 862-2026,No Data,Molleen,Barnes,mbarnes@sunol.k12.ca.us,937
+1964709,Los Angeles,Lennox,10319 South Firmona Avenue,Lennox,90304,CA,(310) 695-4000,No Data,Nicasio,Salerno,nick_salerno@lennoxk12.org,785
+1964980,Los Angeles,Santa Monica-Malibu Unified,1651 16th Street,Santa Monica,90404,CA,(310) 450-8338,No Data,Ben,Drati,bdrati@smmusd.org,516
+1965110,Los Angeles,Whittier City Elementary,7211 South Whittier Avenue,Whittier,90602,CA,(562) 789-3000,No Data,Maria,Martinez-Poulin,mmartinez-poulin@whittiercity.net,837
+1964766,Los Angeles,Lowell Joint,11019 Valley Home Avenue,Whittier,90603,CA,(562) 943-0211,No Data,Jim,Coombs,jcoombs@ljsd.org,874
+1964485,Los Angeles,East Whittier City Elementary,14535 Whittier Boulevard,Whittier,90605,CA,(562) 907-5900,No Data,Marc,Patterson,mpatterson@ewcsd.org,868
+461382,Butte,Bangor Union Elementary,7549 Oro-Bangor Highway,Bangor,95914,CA,(530) 679-2434,201,Lauren,Albert,lalbert@bangorunion.org,765
+1964758,Los Angeles,Los Nietos,8324 South Westman Avenue,Whittier,90606,CA,(562) 692-0271,3212,Jonathan,Vasquez,jonathan_vasquez@lnsd.net,779
+461408,Butte,Biggs Unified,300 B Street,Biggs,95917,CA,(530) 868-1281,No Data,Doug,Kaelin,dkaelin@biggs.org,674
+3066456,Orange,Buena Park Elementary,6885 Orangethorpe Avenue,Buena Park,90620,CA,(714) 522-8412,No Data,Ramon,Miramontes,rmiramontes@bpsd.k12.ca.us,869
+3066480,Orange,Cypress Elementary,9470 Moody Street,Cypress,90630,CA,(714) 220-6900,No Data,Anne,Silavs,asilavs@cypsd.org,879
+461432,Butte,Durham Unified,9420 Putney Drive,Durham,95938,CA,(530) 895-4675,221,Lloyd,Webb,lwebb@durhamunified.org,778
+3066563,Orange,La Habra City Elementary,500 North Walnut Street,La Habra,90631,CA,(562) 690-2319,No Data,Joanne,Culverhouse,jculverhouse@lahabraschools.org,821
+1964808,Los Angeles,Montebello Unified,123 South Montebello Boulevard,Montebello,90640,CA,(323) 887-7900,No Data,Anthony,Martinez,amartinez@montebello.k12.ca.us,727
+1964840,Los Angeles,Norwalk-La Mirada Unified,12820 Pioneer Boulevard,Norwalk,90650,CA,(562) 868-0431,No Data,Hasmik,Danielian,hdanielian@nlmusd.k12.ca.us,697
+461507,Butte,Oroville City Elementary,2795 Yard Street,Oroville,95966,CA,(530) 532-3000,No Data,Spencer,Holtom,sholtom@ocesd.net,772
+1964527,Los Angeles,El Rancho Unified,9333 Loch Lomond Drive,Pico Rivera,90660,CA,(562) 801-7300,No Data,Karling,Aguilera-Fort,kaguilera-fort@erusd.org,563
+1964717,Los Angeles,Little Lake City Elementary,10515 South Pioneer Boulevard,Santa Fe Springs,90670,CA,(562) 868-8241,No Data,William,Crean,wcrean@llcsd.net,818
+461523,Butte,Palermo Union Elementary,7390 Bulldog Way,Palermo,95968,CA,(530) 533-4842,7,Kathleen,Andoe-Nolind,kandoe@palermok8.org,785
+1964212,Los Angeles,ABC Unified,16700 Norwalk Boulevard,Cerritos,90703,CA,(562) 926-5566,21161,Mary,Sieu,mary.sieu@abcusd.us,869
+461531,Butte,Paradise Unified,6696 Clark Rd,Paradise,95969,CA,(530) 872-6400,No Data,Michelle,John,mjohn@pusdk12.org,830
+1964303,Los Angeles,Bellflower Unified,16703 South Clark Avenue,Bellflower,90706,CA,(562) 866-9011,No Data,Tracy,McSparren,tmcsparren@busd.k12.ca.us,768
+461549,Butte,Thermalito Union Elementary,400 Grand Avenue,Oroville,95965,CA,(530) 538-2900,No Data,Gregory,Blake,gblake@thermalito.org,819
+3073924,Orange,Los Alamitos Unified,10293 Bloomfield Street,Los Alamitos,90720,CA,(562) 799-4700,80401,Andrew,Pulver,apulver@losal.org,884
+961945,El Dorado,Pioneer Union Elementary,6862 Mount Aukum Road,Somerset,95684,CA,(530) 620-3556,No Data,Annette,Lane,alane@pioneerusd.org,710
+473379,Butte,Pioneer Union Elementary,286 Rockerfeller Road,Berry Creek,95916,CA,(530) 589-1633,No Data,Patsy,Oxford,poxford@puesd.org,710
+1964873,Los Angeles,Paramount Unified,15110 California Avenue,Paramount,90723,CA,(562) 602-6000,No Data,Ruth,Perez,rperez@paramount.k12.ca.us,775
+475507,Butte,Gridley Unified,429 Magnolia Street,Gridley,95948,CA,(530) 846-4721,No Data,Jordan,Reeves,jreeves@gusd.org,791
+1964725,Los Angeles,Long Beach Unified,1515 Hughes Way,Long Beach,90810,CA,(562) 997-8000,No Data,Christopher,Steinhauser,csteinhauser@lbschools.net,792
+561556,Calaveras,Bret Harte Union High,323 South Main Street,Angels Camp,95221,CA,(209) 736-8340,No Data,Michael,Chimente,mchimente@bhuhsd.k12.ca.us,798
+1964261,Los Angeles,Arcadia Unified,150 South 3rd Avenue,Arcadia,91006,CA,(626) 821-8300,No Data,David,Vannasdall,dvannasdall@ausd.net,891
+561564,Calaveras,Calaveras Unified,3304 B Highway 12,San Andreas,95249,CA,(209) 754-2300,No Data,Mark,Campbell,mcampbell@calaveras.k12.ca.us,631
+1964469,Los Angeles,Duarte Unified,1620 Huntington Drive,Duarte,91010,CA,(626) 599-5000,No Data,Gordon,Amerson,gamerson@duarteusd.org,745
+561572,Calaveras,Mark Twain Union Elementary,981 Tuolumne Avenue,Angels Camp,95222,CA,(209) 736-1855,No Data,Julia,Tidball,jtidball@mtwain.k12.ca.us,829
+1964659,Los Angeles,La Canada Unified,4490 Cornishon Avenue,La Canada,91011,CA,(818) 952-8304,No Data,Wendy,Sinnette,wsinnette@lcusd.net,936
+561580,Calaveras,Vallecito Union,4545 B Moran Road,Avery,95224,CA,(209) 795-8500,No Data,James,Frost,jfrost@vsd.k12.ca.us,848
+1964790,Los Angeles,Monrovia Unified,325 East Huntington Drive,Monrovia,91016,CA,(626) 471-2010,No Data,Katherine,Fundukian Thorossian,kthorossian@monroviaschools.net,627
+661598,Colusa,Colusa Unified,745 10th Street,Colusa,95932,CA,(530) 458-7791,No Data,Dwayne,Newman,dnewman@colusa.k12.ca.us,612
+1965029,Los Angeles,South Pasadena Unified,1020 El Centro Street,South Pasadena,91030,CA,(626) 441-5810,No Data,Geoff,Yantz,gyantz@spusd.net,890
+661606,Colusa,Maxwell Unified,515 Oak Street,Maxwell,95955,CA,(530) 438-2052,No Data,Zach,Thurman,zthurman@maxwell.k12.ca.us,727
+1964881,Los Angeles,Pasadena Unified,351 South Hudson Avenue,Pasadena,91101,CA,(626) 396-3600,No Data,Brian,McDonald,mcdonald.brian@pusd.us,737
+661614,Colusa,Pierce Joint Unified,540 A Sixth Street,Arbuckle,95912,CA,(530) 476-2892,No Data,Carol,Geyer,cgeyer@pierce.k12.ca.us,750
+1964964,Los Angeles,San Marino Unified,1665 West Drive,San Marino,91108,CA,(626) 299-7000,No Data,Loren,Kleinrock,superintendent@smusd.us,937
+661622,Colusa,Williams Unified,499 Marguerite Street  Suite C,Williams,95987,CA,(530) 473-2550,No Data,Edgar,Lampkin,elampkin@williams.k12.ca.us,763
+1964568,Los Angeles,Glendale Unified,223 North Jackson Street,Glendale,91206,CA,(818) 241-3111,No Data,Vivian,Ekchian,vekchian@gusd.net,890
+1964683,Los Angeles,Las Virgenes Unified,4111 Las Virgenes Road,Calabasas,91302,CA,(818) 880-4000,No Data,Daniel,Stepenosky,superintendent@lvusd.org,916
+761648,Contra Costa,Antioch Unified,510 G Street,Antioch,94509,CA,(925) 779-7500,No Data,Stephanie,Anello,stephanieanello@antiochschools.net,826
+1965045,Los Angeles,Sulphur Springs Union,27000 Weyerhaeuser Way,Canyon Country,91351,CA,(661) 252-5131,No Data,Catherine,Kawaguchi,ckawaguchi@sssd.k12.ca.us,902
+1964998,Los Angeles,Saugus Union,24930 Avenue Stanford,Santa Clarita,91355,CA,(661) 294-5300,No Data,Colleen,Hawkins,chawkins@saugususd.org,918
+761671,Contra Costa,Canyon Elementary,187 Pinehurst Road PO Box 187,Canyon,94516,CA,(925) 376-4671,No Data,Lucia,Sullivan,lsullivan@canyon.k12.ca.us,879
+761697,Contra Costa,John Swett Unified,400 Parker Avenue,Rodeo,94572,CA,(510) 245-4300,2105,Charles,Miller,cmiller@jsusd.org,756
+1964337,Los Angeles,Burbank Unified,1900 West Olive Avenue,Burbank,91506,CA,(818) 729-4400,No Data,Matt,Hill,matthill@burbankusd.org,825
+761705,Contra Costa,Knightsen Elementary,1923 Delta Road,Knightsen,94548,CA,(925) 625-0073,No Data,Harvey,Yurkovich,hyurkovich@knightsen.k12.ca.us,836
+3667595,San Bernardino,Alta Loma Elementary,9390 Base Line Road,Alta Loma,91701,CA,(909) 484-5151,No Data,James,Moore,jmoore@alsd.org,837
+761713,Contra Costa,Lafayette Elementary,3477 School Street,Lafayette,94549,CA,(925) 927-3500,No Data,Richard,Whitmore,rwhitmore@lafsd.org,921
+1964279,Los Angeles,Azusa Unified,546 South Citrus Avenue,Azusa,91702,CA,(626) 967-6211,No Data,Linda,Kaminski,lkaminski@azusa.org,720
+761721,Contra Costa,Liberty Union High,20 Oak Street,Brentwood,94513,CA,(925) 634-2166,No Data,Eric,Volta,voltae@luhsd.net,823
+1964287,Los Angeles,Baldwin Park Unified,3699 North Holly Avenue,Baldwin Park,91706,CA,(626) 962-3311,No Data,Froilan,Mendoza,fnmendoza674@bpusd.net,695
+761739,Contra Costa,Martinez Unified,921 Susana Street,Martinez,94553,CA,(925) 335-5800,No Data,Christopher,Cammack,ccammack@martinez.k12.ca.us,531
+3667678,San Bernardino,Chino Valley Unified,5130 Riverside Drive,Chino,91710,CA,(909) 628-1201,No Data,Norm,Enfield,norm_enfield@chino.k12.ca.us,937
+761747,Contra Costa,Moraga Elementary,1540 School Street,Moraga,94556,CA,(925) 376-5943,No Data,Bruce,Burns,bburns@moraga.k12.ca.us,967
+1964394,Los Angeles,Claremont Unified,170 West San Jose Avenue,Claremont,91711,CA,(909) 398-0609,No Data,James,Elsasser,jelsasser@cusd.claremont.edu,558
+761754,Contra Costa,Mt. Diablo Unified,1936 Carlotta Drive,Concord,94519,CA,(925) 682-8000,4000,Nellie,Meyer,meyern@mdusd.org,825
+1964436,Los Angeles,Covina-Valley Unified,519 East Badillo Street,Covina,91723,CA,(626) 974-7000,No Data,Richard,Sheehan,rmsheehan@c-vusd.org,540
+761762,Contra Costa,Oakley Union Elementary,91 Mercedes Lane,Oakley,94561,CA,(925) 625-0700,No Data,Greg,Hetrick,ghetrick@ouesd.k12.ca.us,811
+1964378,Los Angeles,Charter Oak Unified,20240 East Cienega Avenue,Covina,91724,CA,(626) 966-8331,No Data,Margaret,Abrahamson,mabrahamson@cousd.net,773
+761770,Contra Costa,Orinda Union Elementary,8 Altarinda Road,Orinda,94563,CA,(925) 254-4901,No Data,Carolyn,Seaton,cseaton@orindaschools.org,965
+3667694,San Bernardino,Cucamonga Elementary,8776 Archibald Avenue,Rancho Cucamonga,91730,CA,(909) 987-8942,No Data,Richard,Dahlin,rdahlin@cuca.k12.ca.us,761
+761788,Contra Costa,Pittsburg Unified,2000 Railroad Avenue,Pittsburg,94565,CA,(925) 473-2300,No Data,Janet,Schulze,jschulze@pittsburg.k12.ca.us,767
+1964501,Los Angeles,El Monte City,3540 North Lexington Avenue,El Monte,91731,CA,(626) 453-3700,No Data,Maribel,Garcia,mgarcia@emcsd.org,796
+761796,Contra Costa,West Contra Costa Unified,1108 Bissell Avenue,Richmond,94801,CA,(510) 231-1101,No Data,Matthew,Duffy,matthew.duffy@wccusd.net,785
+1964816,Los Angeles,Mountain View Elementary,3320 Gilman Road,El Monte,91732,CA,(626) 652-4000,No Data,Lillian,French,lmfrench@mtviewschools.net,766
+3667785,San Bernardino,Mountain View Elementary,2585 South Archibald Avenue,Ontario,91761,CA,(909) 947-2205,No Data,Douglass,Moss,douglass_moss@mvsdk8.org,766
+761804,Contra Costa,San Ramon Valley Unified,699 Old Orchard Drive,Danville,94526,CA,(925) 552-5500,No Data,Rick,Schmitt,superintendent@srvusd.net,976
+1965078,Los Angeles,Valle Lindo Elementary,1431 North Central Avenue,South El Monte,91733,CA,(626) 580-0610,100,Lynn,Bulgin,mbulgin@sd.vallelindo.k12.ca.us,833
+761812,Contra Costa,Walnut Creek Elementary,960 Ygnacio Valley Road,Walnut Creek,94596,CA,(925) 944-6850,No Data,Marie,Morgan,mmorgan@walnutcreeksd.org,888
+3667702,San Bernardino,Etiwanda Elementary,6061 East Avenue,Etiwanda,91739,CA,(909) 899-2451,No Data,Shawn,Judson,shawn_judson@etiwanda.org,903
+1964576,Los Angeles,Glendora Unified,500 North Loraine Avenue,Glendora,91741,CA,(626) 963-1611,No Data,Robert,Voors,rvoors@glendora.k12.ca.us,837
+1973445,Los Angeles,Hacienda la Puente Unified,15959 East Gale Avenue,City Of Industry,91745,CA,(626) 933-1000,No Data,Cynthia,Parulan-Colfer,cpcolfer@hlpusd.k12.ca.us,813
+961838,El Dorado,Buckeye Union Elementary,5049 Robert J Mathews Parkway,El Dorado Hills,95762,CA,(530) 677-2261,No Data,David,Roth,droth@buckeyeusd.org,942
+1964295,Los Angeles,Bassett Unified,904 North Willow Avenue,La Puente,91746,CA,(626) 931-3000,No Data,Debra,French,dfrench@bassettusd.org,705
+961846,El Dorado,Camino Union Elementary,3060 Snows Road,Camino,95709,CA,(530) 644-4552,213,Matthew,Smith,msmith@caminoschool.org,868
+1973452,Los Angeles,Rowland Unified,1830 South Nogales Street,Rowland Heights,91748,CA,(626) 965-2541,No Data,Julie,Mitchell,jmitchell@rowlandschools.org,776
+3667793,San Bernardino,Mt. Baldy Joint Elementary,1 Mount Baldy Road,Mt. Baldy,91759,CA,(909) 985-0991,No Data,Nancy,Sirski,nancy_sirski@mtbaldy.k12.ca.us,889
+3667652,San Bernardino,Chaffey Joint Union High,211 West Fifth Street,Ontario,91762,CA,(909) 988-8511,No Data,Mathew,Holton,mathew.holton@cjuhsd.net,798
+961903,El Dorado,Lake Tahoe Unified,1021 Al Tahoe Boulevard,South Lake Tahoe,96150,CA,(530) 541-2850,No Data,James,Tarwater,jtarwater@ltusd.org,936
+1964907,Los Angeles,Pomona Unified,800 South Garey Avenue,Pomona,91766,CA,(909) 397-4800,23882,Richard,Martinez,richard.martinez@pusd.org,719
+961911,El Dorado,Latrobe,7900 South Shingle Road,Shingle Springs,95682,CA,(530) 677-0260,No Data,Natalie,Miller,nmiller@latrobeschool.com,916
+1964931,Los Angeles,Rosemead Elementary,3907 Rosemead Boulevard,Rosemead,91770,CA,(626) 312-2900,No Data,Alejandro,Ruvalcaba,aruvalcaba@rosemead.k12.ca.us,881
+1964329,Los Angeles,Bonita Unified,115 West Allen Avenue,San Dimas,91773,CA,(909) 971-8200,No Data,Carl,Coles,coles@bonita.k12.ca.us,857
+961978,El Dorado,Rescue Union Elementary,2390 Bass Lake Road,Rescue,95672,CA,(530) 677-4461,No Data,Cheryl,Olson,colson@my.rescueusd.org,883
+1975291,Los Angeles,San Gabriel Unified,408 Junipero Serra Drive,San Gabriel,91776,CA,(626) 451-5400,No Data,James,Symonds,Symonds_j@sgusd.k12.ca.us,843
+973783,El Dorado,Black Oak Mine Unified,6540 Wentworth Springs Road,Georgetown,95634,CA,(530) 333-8300,No Data,Jeremy,Meyers,jmeyers@bomusd.org,769
+1965052,Los Angeles,Temple City Unified,9700 Las Tunas Drive,Temple City,91780,CA,(626) 548-5031,No Data,Kimberly,Fricker,kfricker@tcusd.net,882
+3675069,San Bernardino,Upland Unified,390 North Euclid Avenue,Upland,91786,CA,(909) 985-1864,No Data,Nancy,Kelly,nancy_kelly@upland.k12.ca.us,583
+1973460,Los Angeles,Walnut Valley Unified,880 South Lemon Avenue,Walnut,91789,CA,(909) 595-1261,No Data,Robert,Taylor,rtaylor@wvusd.k12.ca.us,876
+1975713,Los Angeles,Alhambra Unified,1515 West Mission Road,Alhambra,91803,CA,(626) 943-3330,No Data,Denise,Jaramillo,jaramillo_denise@ausd.us,571
+1062026,Fresno,Big Creek Elementary,55190 Point Road,Big Creek,93605,CA,(559) 893-3314,No Data,Toby,Wait,twait@bigcreekschool.com,822
+3767967,San Diego,Alpine Union Elementary,2001 Tavern Rd,Alpine,91901,CA,(619) 445-3236,No Data,Richard,Newman,rnewman@alpineschools.net,845
+3768411,San Diego,Sweetwater Union High,1130 Fifth Avenue,Chula Vista,91911,CA,(619) 691-5500,No Data,Karen,Janney,karen.janney@sweetwaterschools.org,849
+1062117,Fresno,Clovis Unified,1450 Herndon Avenue,Clovis,93611,CA,(559) 327-9000,No Data,Eimear,O'Farrell,eimearofarrell@clovisusd.k12.ca.us,977
+3768395,San Diego,South Bay Union,601 Elm Avenue,Imperial Beach,91932,CA,(619) 628-1600,No Data,Katie,McNamara,kmcnamara@sbusd.org,753
+1062125,Fresno,Coalinga-Huron Unified,657 Sunset Street,Coalinga,93210,CA,(559) 935-7500,No Data,Lori,Villanueva,lvillanueva@chusd.org,690
+3768155,San Diego,Jamul-Dulzura Union Elementary,14581 Lyons Valley Road,Jamul,91935,CA,(619) 669-7700,No Data,Elizabeth,Bystedt,lbystedt@jdusd.org,800
+1062158,Fresno,Fowler Unified,658 East Adams Avenue,Fowler,93625,CA,(559) 834-6080,No Data,Lori,Gonzalez,lori.gonzalez@fowler.k12.ca.us,755
+3768197,San Diego,La Mesa-Spring Valley,4750 Date Avenue,La Mesa,91942,CA,(619) 668-5700,No Data,David,Feliciano,david.feliciano@lmsvschools.org,538
+3768205,San Diego,Lemon Grove,8025 Lincoln Street,Lemon Grove,91945,CA,(619) 825-5600,No Data,Erica,Balakian,ebalakian@lemongrovesd.net,812
+1062240,Fresno,Kingsburg Elementary Charter,1310 Stroud Avenue,Kingsburg,93631,CA,(559) 897-2331,No Data,Wesley,Sever,wsever@kesd.org,858
+3768221,San Diego,National Elementary,1500 N Avenue,National City,91950,CA,(619) 336-7500,No Data,Leighangela,Brady,lbrady@nsd.us,781
+3768213,San Diego,Mountain Empire Unified,3305 Buckman Springs Road,Pine Valley,91962,CA,(619) 473-9022,No Data,Kathy,Granger,kathy.granger@meusd.k12.ca.us,663
+1062265,Fresno,Kings Canyon Joint Unified,1801 Tenth Street,Reedley,93654,CA,(559) 305-7010,No Data,John,Campbell,campbell-j@kcusd.com,785
+1062281,Fresno,Laton Joint Unified,6259 DeWoody,Laton,93242,CA,(559) 922-4015,No Data,Lupe,Nieves,lnieves@latonunified.org,719
+1062323,Fresno,Monroe Elementary,11842 South Chestnut Avenue,Fresno,93725,CA,(559) 834-2895,No Data,Shelley,Manser,smanser@monroe.k12.ca.us,789
+3767983,San Diego,Borrego Springs Unified,2281 Diegueno Road,Borrego Springs,92004,CA,(760) 767-5357,No Data,Mark,Stevens,mstevens@bsusd.net,645
+3768007,San Diego,Cardiff Elementary,1888 Montgomery Avenue,Cardiff-by-the-Sea,92007,CA,(760) 632-5890,No Data,Jill,Vinson,jill.vinson@cardiffschools.com,923
+1262976,Humboldt,Pacific Union Elementary,3001 Janes Road,Arcata,95521,CA,(707) 822-4619,No Data,Karla,Darnall,kdarnall@pacificunionschool.org,814
+3773551,San Diego,Carlsbad Unified,6225 El Camino Real,Carlsbad,92009,CA,(760) 331-5000,No Data,Benjamin,Churchill,bchurchill@carlsbadusd.net,858
+1062364,Fresno,Parlier Unified,900 Newmark Avenue,Parlier,93648,CA,(559) 646-2731,No Data,Jaime,Robles,jaime.robles@parlierunified.org,758
+3768049,San Diego,Dehesa Elementary,4612 Dehesa Road,El Cajon,92019,CA,(619) 444-2161,No Data,Nancy,Hauer,nancy.hauer@dehesasd.net,607
+1062372,Fresno,Pine Ridge Elementary,45828 Auberry Road,Auberry,93602,CA,(559) 841-2444,No Data,Christine,Skinner,cskinner@prsrattlers.org,876
+1062380,Fresno,Raisin City Elementary,6425 West Bowles Avenue,Raisin City,93652,CA,(559) 233-0128,No Data,Juan,Sandoval,jsandoval@raisinesd.org,683
+3767991,San Diego,Cajon Valley Union,750 East Main Street,El Cajon,92022,CA,(619) 588-3005,No Data,David,Miyashiro,miyashirod@cajonvalley.net,846
+1062414,Fresno,Sanger Unified,1905 Seventh Street,Sanger,93657,CA,(559) 524-6521,No Data,Adela,Madrigal Jones,adela_jones@sangerusd.net,873
+3768346,San Diego,San Dieguito Union High,710 Encinitas Boulevard,Encinitas,92024,CA,(760) 753-6491,No Data,Robert,Haley,robert.haley@sduhsd.net,916
+1062430,Fresno,Selma Unified,3036 Thompson Avenue,Selma,93662,CA,(559) 898-6500,No Data,Tanya,Fisher,tfisher@selmausd.org,498
+3768106,San Diego,Escondido Union High,302 North Midway Drive,Escondido,92027,CA,(760) 291-3200,No Data,Anne,Staffieri,astaffieri@euhsd.org,859
+3768114,San Diego,Fallbrook Union Elementary,321 North Iowa Street,Fallbrook,92028,CA,(760) 731-5400,No Data,Candace,Singh,csingh@fuesd.org,824
+3768098,San Diego,Escondido Union,2310 Aldergrove Avenue,Escondido,92029,CA,(760) 432-2400,No Data,Luis,Rankins-Ibarra,libarra@eusd.org,898
+1062547,Fresno,Westside Elementary,19191 Excelsior Avenue,Five Points,93624,CA,(559) 884-2494,No Data,Baldomero,Hernandez,bhernandez@westside-elem.com,666
+3768163,San Diego,Julian Union Elementary,1704 Cape Horn,Julian,92036,CA,(760) 765-0661,No Data,Brian,Duffy,brian.duffy@juesd.net,808
+1073809,Fresno,Firebaugh-Las Deltas Unified,1976 Morris Kyle Drive,Firebaugh,93622,CA,(559) 659-1476,No Data,Russell,Freitas,rfreitas@fldusd.org,726
+3768189,San Diego,Lakeside Union Elementary,12335 Woodside Avenue,Lakeside,92040,CA,(619) 390-2600,No Data,Andy,Johnsen,ajohnsen@lsusd.net,706
+1073965,Fresno,Central Unified,5652 West Gettysburg Avenue,Fresno,93722,CA,(559) 274-4700,63150,Andrew,Alvarado,agalvarado@centralusd.k12.ca.us,859
+1073999,Fresno,Kerman Unified,151 South First Street,Kerman,93630,CA,(559) 843-9000,No Data,Robert,Frausto,robert.frausto@kermanusd.com,776
+3773569,San Diego,Oceanside Unified,2111 Mission Avenue,Oceanside,92058,CA,(760) 966-4000,No Data,Julie,Vitale  Ph.D.,julie.vitale@oside.us,859
+1075127,Fresno,Mendota Unified,115 McCabe Avenue,Mendota,93640,CA,(559) 655-4942,No Data,Paul,Lopez,plopez@mendotaschools.org,713
+3768304,San Diego,Ramona City Unified,720 Ninth Street,Ramona,92065,CA,(760) 787-2007,No Data,Theresa,Ketchem-Grace,tgrace@ramonausd.net,563
+1075234,Fresno,Golden Plains Unified,22000 Nevada Street,San Joaquin,93660,CA,(559) 693-1115,No Data,Martin,Macias,mmacias@gpusd.org,673
+3768312,San Diego,Rancho Santa Fe Elementary,5927 La Granada,Rancho Santa Fe,92067,CA,(858) 756-1141,No Data,Donna,Tripi,dtripi@rsf.k12.ca.us,957
+1075275,Fresno,Sierra Unified,29143 Auberry Road,Prather,93651,CA,(559) 855-3662,No Data,Melissa,Ireland,mireland@sierrausd.org,825
+3773791,San Diego,San Marcos Unified,255 Pico Avenue  Suite 250,San Marcos,92069,CA,(760) 752-1299,No Data,Carmen,Garcia,carmen.garcia@smusd.org,912
+1075408,Fresno,Riverdale Joint Unified,3160 West Mount Whitney Avenue,Riverdale,93656,CA,(559) 867-8200,No Data,Jeff,Percell,jpercell@rjusd.org,760
+3768403,San Diego,Spencer Valley Elementary,4414 Highway 78 and 79,Santa Ysabel,92070,CA,(760) 765-0336,No Data,Julie,Weaver,julie@svesd.net,911
+1075598,Fresno,Caruthers Unified,1 Tiller Avenue,Caruthers,93609,CA,(559) 864-6500,No Data,Orin,Hirschkorn,orhirschkorn@caruthers.k12.ca.us,728
+3768361,San Diego,Santee,9625 Cuyamaca Street,Santee,92071,CA,(619) 258-2300,No Data,Kristin,Baranski,kristin.baranski@santeesd.net,852
+5772694,Yolo,Washington Unified,930 Westacre Road,West Sacramento,95691,CA,(916) 375-7600,No Data,Linda,Luna,lluna@wusd.k12.ca.us,489
+3768387,San Diego,Solana Beach Elementary,309 North Rios Avenue,Solana Beach,92075,CA,(858) 794-7100,No Data,Jodee,Brentlinger,jodeebrentlinger@sbsd.net,965
+3775614,San Diego,Valley Center-Pauma Unified,28751 Cole Grade Road,Valley Center,92082,CA,(760) 749-0464,No Data,Ron,McCowan,mccowan.ro@vcpusd.org,852
+3768452,San Diego,Vista Unified,1234 Arcadia Avenue,Vista,92084,CA,(760) 726-2170,2219,Linda,Kimble,lindakimble@vistausd.org,828
+3775416,San Diego,Warner Unified,30951 Highway 79,Warner Springs,92086,CA,(760) 782-3517,No Data,David,MacLeod,david.macleod@warnerusd.net,734
+1162646,Glenn,Princeton Joint Unified,473 State Street,Princeton,95970,CA,(530) 439-2261,No Data,Korey,Williams,kwilliams@pjusd.org,754
+3768338,San Diego,San Diego Unified,4100 Normal Street,San Diego,92103,CA,(619) 725-8000,No Data,Cindy,Marten,cmarten@sandi.net,825
+1162653,Glenn,Stony Creek Joint Unified,3430 County Road 309,Elk Creek,95939,CA,(530) 968-5361,No Data,Kevin,Triance,ktriance@scjusd.org,685
+3776471,San Diego,SBC - High Tech High,2861 Womble Road,San Diego,92106,CA,(619) 243-5014,No Data,Larry,Rosenstock,lrosenstock@hightechhigh.org,761
+1175481,Glenn,Orland Joint Unified,903 South Street,Orland,95963,CA,(530) 865-1200,No Data,Ken,Geisick,kgeisick@orlandusd.net,729
+3768031,San Diego,Coronado Unified,201 Sixth Street,Coronado,92118,CA,(619) 522-8900,1025,Karl,Mueller,karl.mueller@coronadousd.net,874
+1176562,Glenn,Hamilton Unified,620 Canal Street,Hamilton City,95951,CA,(530) 826-4014,6004,Jeremy,Powell,jpowell@husdschools.org,745
+3768296,San Diego,Poway Unified,15250 Avenue of Science,San Diego,92128,CA,(858) 521-2800,No Data,Marian,Kim-Phelps,mkimphelps@powayusd.com,959
+3768056,San Diego,Del Mar Union Elementary,11232 El Camino Real,San Diego,92130,CA,(858) 755-9301,No Data,Holly,McClurg,hmcclurg@dmusd.org,962
+3768379,San Diego,San Ysidro Elementary,4350 Otay Mesa Road,San Ysidro,92173,CA,(619) 428-4476,No Data,Gina,Potter,gina.potter@sysdschools.org,752
+1262687,Humboldt,Northern Humboldt Union High,2755 McKinleyville Avenue,McKinleyville,95519,CA,(707) 839-6481,No Data,Roger,Macdonald,rmacdonald@nohum.k12.ca.us,773
+3366985,Riverside,Banning Unified,161 West Williams Street,Banning,92220,CA,(951) 922-0200,201,Robert,Guillen,rguillen@banning.k12.ca.us,654
+3366993,Riverside,Beaumont Unified,350 West Brookside Avenue,Beaumont,92223,CA,(951) 845-1631,No Data,Terrence,Davis,tdavis@beaumontusd.k12.ca.us,869
+1262703,Humboldt,Blue Lake Union Elementary,631 Greenwood Avenue,Blue Lake,95525,CA,(707) 668-5674,No Data,DeAnn,Waldvogel,dwaldvogel@bluelakeschool.org,745
+3367181,Riverside,Palo Verde Unified,295 North First Street,Blythe,92225,CA,(760) 922-4164,1236,Charles,Bush,charles.bush@pvusd.us,539
+1262729,Humboldt,Bridgeville Elementary,38717 Kneeland Road,Bridgeville,95526,CA,(707) 777-3311,No Data,John,Blakely,jblakely@bridgevilleschool.org,812
+1363081,Imperial,Brawley Union High,480 North Imperial Avenue,Brawley,92227,CA,(760) 312-5819,No Data,Simon,Canalez,scanalez@brawleyhigh.org,554
+1262737,Humboldt,Cuddeback Union Elementary,300 Wilder Road,Carlotta,95528,CA,(707) 768-3372,No Data,Blaine,Sigler,bsigler@cuddebackschool.org,797
+1363099,Imperial,Calexico Unified,901 Andrade Avenue,Calexico,92231,CA,(760) 768-3888,No Data,Carlos,Gonzales,cgonzales@cusdk12.org,748
+1262745,Humboldt,Cutten Elementary,4182 Walnut Drive,Eureka,95503,CA,(707) 441-3900,No Data,Sue,Ivey,sivey@cuttensd.org,856
+1363107,Imperial,Calipatria Unified,501 West Main Street,Calipatria,92233,CA,(760) 348-2151,No Data,Douglas,Kline,dkline@calipat.com,759
+1363131,Imperial,Heber Elementary,1052 Heber Avenue,Heber,92249,CA,(760) 337-6530,2497,Juan,Cruz,jcruz@hesdk8.org,822
+1363149,Imperial,Holtville Unified,621 East Sixth Street,Holtville,92250,CA,(760) 356-2974,No Data,Celso,Ruiz,celso@husd.net,729
+1262885,Humboldt,Hydesville Elementary,3050 Johnson Road,Hydesville,95547,CA,(707) 768-3610,No Data,August,Deshais,superintendent@hydesvilleschool.org,870
+1363164,Imperial,Imperial Unified,219 North E Street,Imperial,92251,CA,(760) 355-3200,No Data,Bryan,Thomason,bthomason@imperialusd.org,648
+1262893,Humboldt,Jacoby Creek Elementary,1617 Old Arcata Road,Bayside,95524,CA,(707) 822-4896,No Data,Melanie,Nannizzi,mnannizzi@jcsk8.org,913
+3367058,Riverside,Desert Sands Unified,47-950 Dune Palms Road,La Quinta,92253,CA,(760) 777-4200,No Data,Scott,Bailey,slbailey@desertsands.us,831
+1262901,Humboldt,Klamath-Trinity Joint Unified,11800 Highway 96,Hoopa,95546,CA,(530) 625-5600,No Data,Jon,Ray,jray@ktjusd.k12.ca.us,698
+3367173,Riverside,Palm Springs Unified,150 District Center Drive,Palm Springs,92264,CA,(760) 883-2700,No Data,Sandra,Lyon  Ed.D.,slyon@psusd.us,866
+1262919,Humboldt,Kneeland Elementary,9313 Kneeland Road,Kneeland,95549,CA,(707) 442-5472,No Data,Greta,Turney,admin@kneelandsd.org,757
+1363222,Imperial,Seeley Union Elementary,1812 West Rio Vista Street,Seeley,92273,CA,(760) 352-3571,No Data,Andrea,Ellis,aellis@seeley.k12.ca.us,740
+1262927,Humboldt,Loleta Union Elementary,700 Loleta Drive,Loleta,95551,CA,(707) 733-5705,No Data,Autumn,Chapman,achapman@loleta.org,624
+3373676,Riverside,Coachella Valley Unified,87-225 Church Street,Thermal,92274,CA,(760) 848-1000,No Data,Maria,Gandera,maria.gandera@cvusd.us,659
+3667777,San Bernardino,Morongo Unified,5715 Utah Trail,Twentynine Palms,92277,CA,(760) 367-9191,4200,Deborah,Turner,Deborah_Turner@morongo.k12.ca.us,588
+1262968,Humboldt,Orick Elementary,120918 Highway 101,Orick,95555,CA,(707) 488-2821,No Data,William,Hawkins,whawkins@orickschool.org,811
+1363230,Imperial,Westmorland Union Elementary,200 South C Street,Westmorland,92281,CA,(760) 344-4364,No Data,Richard,Cordero,r.cordero@wued.org,700
+1262984,Humboldt,Peninsula Union,909 Vance Avenue,Samoa,95564,CA,(707) 443-2731,No Data,Lark,Doolan,ldoolan@peninsulasd.org,771
+1363214,Imperial,San Pasqual Valley Unified,676 Base Line Road,Winterhaven,92283,CA,(760) 572-0222,No Data,Rauna,Fox,rfox@spvusd.org,618
+1263008,Humboldt,Rio Dell Elementary,95 Center Street,Rio Dell,95562,CA,(707) 764-5694,No Data,Kevin,Trone,ktrone@riodellschools.net,822
+3667587,San Bernardino,Adelanto Elementary,11824 Air Expressway,Adelanto,92301,CA,(760) 246-8691,No Data,Amy,Nguyen-Hernandez,amy_nguyen-hernandez@aesd.net,796
+1263024,Humboldt,Scotia Union Elementary,417 Church Street,Scotia,95565,CA,(707) 764-2212,No Data,Amy,Gossien,agossien@scotiaschool.org,784
+3675077,San Bernardino,Apple Valley Unified,12555 Navajo Road,Apple Valley,92308,CA,(760) 247-8001,No Data,Thomas,Hoegerman,tom_hoegerman@avusd.org,851
+3673858,San Bernardino,Baker Valley Unified,72100 School House Lane,Baker,92309,CA,(760) 733-4567,No Data,Ronda,Tremblay,ronda_tremblay@baker.k12.ca.us,722
+3667611,San Bernardino,Barstow Unified,551 South Avenue H,Barstow,92311,CA,(760) 255-6000,No Data,Jeff,Malan,jeff_malan@busdk12.com,562
+1263057,Humboldt,Trinidad Union Elementary,300 Trinity Street,Trinidad,95570,CA,(707) 677-3631,No Data,Katie,Cavanagh,kcavanagh@trinidadusd.net,846
+3667637,San Bernardino,Bear Valley Unified,42271 Moonridge Road,Big Bear Lake,92315,CA,(909) 866-4631,No Data,Mary,Suzuki,mary_suzuki@bearvalleyusd.org,629
+1275374,Humboldt,Ferndale Unified,1231 Main Street,Ferndale,95536,CA,(707) 786-5900,No Data,Beth,Anderson,banderson@ferndalek12.org,752
+3667868,San Bernardino,Rim of the World Unified,27315 North Bay Road,Blue Jay,92317,CA,(909) 336-2031,No Data,Michelle,Murphy,michelle_murphy@rimsd.k12.ca.us,579
+1275382,Humboldt,Mattole Unified,29289 Chambers Road,Petrolia,95558,CA,(707) 629-3311,No Data,Karen,Ashmore,kashmore@mattolevalley.org,747
+3667686,San Bernardino,Colton Joint Unified,1212 Valencia Drive,Colton,92324,CA,(909) 580-5000,No Data,Jerry,Almendarez,jerry_almendarez@cjusd.net,547
+3673957,San Bernardino,Snowline Joint Unified,4075 Nielson Road,Phelan,92329,CA,(760) 868-5817,7225,Ryan,Holman,ryan_holman@snowlineschools.com,769
+1276802,Humboldt,Fortuna Elementary,500 9th Street,Fortuna,95540,CA,(707) 725-2293,No Data,Jeff,Northern,jnorthern@fortunaesd.com,770
+3667710,San Bernardino,Fontana Unified,9680 Citrus Avenue,Fontana,92335,CA,(909) 357-7600,29109,Randal,Bassett,randal.bassett@fusd.net,776
+3667736,San Bernardino,Helendale Elementary,15350 Riverview Road,Helendale,92342,CA,(760) 952-1180,No Data,Ross,Swearingen,rswearingen@helendalesd.com,769
+3675044,San Bernardino,Hesperia Unified,15576 Main Street,Hesperia,92345,CA,(760) 244-4411,7215,David,Olney,david.olney@hesperiausd.org,731
+3675051,San Bernardino,Lucerne Valley Unified,8560 Aliento Road,Lucerne Valley,92356,CA,(760) 248-6108,No Data,Peter,Livingston,peter_livingston@lucernevalleyusd.org,774
+3667801,San Bernardino,Needles Unified,1900 Erin Drive,Needles,92363,CA,(760) 326-3891,No Data,Mary,McNeil,mary_mcneil@needlesusd.org,654
+3667850,San Bernardino,Rialto Unified,182 East Walnut Avenue,Rialto,92376,CA,(909) 820-7700,No Data,Cuauhtemoc,Avila,cavila@rialto.k12.ca.us,725
+3667934,San Bernardino,Victor Valley Union High,16350 Mojave Drive,Victorville,92395,CA,(760) 955-3201,10210,Ron,Williams,rwilliams@vvuhsd.org,899
+3673890,San Bernardino,Silver Valley Unified,35320 Daggett-Yermo Road,Yermo,92398,CA,(760) 254-2916,No Data,Jesse,Najera,jnajera@svusdk12.net,830
+3667959,San Bernardino,Yucaipa-Calimesa Joint Unified,12797 Third Street,Yucaipa,92399,CA,(909) 797-0174,5801,Cali,Binks,cali_binks@ycjusd.us,797
+3667876,San Bernardino,San Bernardino City Unified,777 North F Street,San Bernardino,92410,CA,(909) 381-1100,No Data,Dale,Marsden,dale.marsden@sbcusd.k12.ca.us,619
+3367215,Riverside,Riverside Unified,3380 14th Street,Riverside,92501,CA,(951) 788-7135,No Data,David,Hansen,dchansen@rusd.k12.ca.us,908
+3367090,Riverside,Jurupa Unified,4850 Pedley Road,Jurupa Valley,92509,CA,(951) 360-4160,No Data,Elliott,Duchon,educhon@jusd.k12.ca.us,731
+1463248,Inyo,Big Pine Unified,500 South Main Street,Big Pine,93513,CA,(760) 938-2005,2452,Pamela,Jones,pjones@bigpineschools.org,633
+3375176,Riverside,Lake Elsinore Unified,545 Chaney Street,Lake Elsinore,92530,CA,(951) 253-7000,No Data,Doug,Kimberly,doug.kimberly@leusd.k12.ca.us,775
+1463289,Inyo,Lone Pine Unified,301 South Hay Street,Lone Pine,93545,CA,(760) 876-5579,No Data,Patrick,Traynor,ptraynor@lpusd.k12.ca.us,749
+1463297,Inyo,Owens Valley Unified,202 South Clay Street,Independence,93526,CA,(760) 878-2405,No Data,Rosanne,Lampariello,rlamp@ovusd.org,782
+3367082,Riverside,Hemet Unified,1791 West Acacia Avenue,Hemet,92545,CA,(951) 765-5100,No Data,Christi,Barrett,cbarrett@hemetusd.org,780
+3367231,Riverside,Romoland Elementary,25900 Leon Rd,Homeland,92548,CA,(951) 926-9244,1226,Trevor,Painton,tpainton@romoland.net,834
+1476687,Inyo,Bishop Unified,301 North Fowler Street,Bishop,93514,CA,(760) 872-3680,230,Barry,Simpson,bsimpson@bishopschools.org,748
+3367124,Riverside,Moreno Valley Unified,25634 Alessandro Boulevard,Moreno Valley,92553,CA,(951) 571-7500,No Data,Martinrex,Kedziora,mkedziora@mvusd.net,808
+3375200,Riverside,Murrieta Valley Unified,41870 McAlby Court,Murrieta,92562,CA,(951) 696-1600,No Data,Patrick,Kelley,pkelley@murrieta.k12.ca.us,849
+1563313,Kern,Arvin Union,737 Bear Mountain Boulevard,Arvin,93203,CA,(661) 854-6500,No Data,Georgia,Rhett,rhett@arvin-do.com,773
+3367157,Riverside,Nuview Union,29780 Lakeview Avenue,Nuevo,92567,CA,(951) 928-0066,No Data,David,Pyle,dpyle@nuview.k12.ca.us,685
+1563321,Kern,Bakersfield City,1300 Baker Street,Bakersfield,93305,CA,(661) 631-4610,No Data,Doc,Ervin,ervind@bcsd.com,789
+3367199,Riverside,Perris Elementary,143 East First Street,Perris,92570,CA,(951) 657-3118,No Data,Jean Marie,Frey,frey@perrisesd.org,805
+3375242,Riverside,Val Verde Unified,975 West Morgan Street,Perris,92571,CA,(951) 940-6100,No Data,Michael,McCormick,mmccormick@valverde.edu,801
+3367249,Riverside,San Jacinto Unified,2045 South San Jacinto Avenue,San Jacinto,92583,CA,(951) 929-7700,No Data,Diane,Perez,dperez@sanjacinto.k12.ca.us,804
+1563362,Kern,Panama-Buena Vista Union,4200 Ashe Road,Bakersfield,93313,CA,(661) 831-8331,6104,Kevin,Silberberg,ksilberberg@pbvusd.net,773
+3367116,Riverside,Menifee Union Elementary,29775 Haun Road,Menifee,92586,CA,(951) 672-1851,No Data,Steve,Kennedy,skennedy@menifeeusd.org,847
+1563370,Kern,Buttonwillow Union Elementary,42600 Highway 58,Buttonwillow,93206,CA,(661) 764-5166,No Data,Stuart,Packard,spackard@buttonwillowschool.com,653
+3375192,Riverside,Temecula Valley Unified,31350 Rancho Vista Road,Temecula,92592,CA,(951) 676-2661,No Data,Tim,Ritter,tritter@tvusd.k12.ca.us,899
+1563388,Kern,Caliente Union Elementary,12400 Caliente Creek Road,Caliente,93518,CA,(661) 867-2301,No Data,Alan,Gonzalez,agonzalez@calienteschooldistrict.org,716
+3073650,Orange,Irvine Unified,5050 Barranca Parkway,Irvine,92604,CA,(949) 936-5000,No Data,Terry,Walker,terrywalker@iusd.org,557
+1563412,Kern,Delano Joint Union High,1720 Norwalk Street,Delano,93215,CA,(661) 725-4000,No Data,Jason,Garcia,jgarcia@djuhsd.org,776
+3066613,Orange,Ocean View,17200 Pinehurst Lane,Huntington Beach,92647,CA,(714) 847-2551,1310,Carol,Hansen,chansen@ovsd.org,936
+5672512,Ventura,Ocean View,4200 Olds Road,Oxnard,93033,CA,(805) 488-4441,No Data,Craig,Helmstedter,chelmstedter@oceanviewsd.org,936
+1563446,Kern,Elk Hills Elementary,501 Kern Street,Tupman,93276,CA,(661) 765-7431,No Data,Ricardo,Esquivel,riesquivel@elkhills.org,637
+3066548,Orange,Huntington Beach Union High,5832 Bolsa Avenue,Huntington Beach,92649,CA,(714) 903-7000,No Data,Clint,Harwick,charwick@hbuhsd.edu,770
+3066555,Orange,Laguna Beach Unified,550 Blumont Street,Laguna Beach,92651,CA,(949) 497-7700,5204,Jason,Viloria,jviloria@lbusd.org,896
+3066746,Orange,Westminster,14121 Cedarwood Avenue,Westminster,92683,CA,(714) 894-7311,No Data,Cyndi,Paik,cpaik@wsdk8.us,890
+3073635,Orange,Saddleback Valley Unified,25631 Peter A. Hartman Way,Mission Viejo,92691,CA,(949) 586-1234,No Data,Crystal,Turner,crystal.turner@svusd.org,830
+3066670,Orange,Santa Ana Unified,1601 East Chestnut Avenue,Santa Ana,92701,CA,(714) 558-5501,No Data,Stefanie,Phillips,stefanie.phillips@sausd.us,779
+1563545,Kern,Kernville Union Elementary,3240 Erskine Creek Road,Lake Isabella,93240,CA,(760) 379-3651,No Data,Steve,Martinez,smartinez@kernvilleusd.org,756
+1563552,Kern,Lakeside Union,14535 Old River Road,Bakersfield,93311,CA,(661) 836-6658,No Data,Ty,Bryson,tbryson@lakesideusd.org,794
+3066498,Orange,Fountain Valley Elementary,10055 Slater Avenue,Fountain Valley,92708,CA,(714) 843-3255,No Data,Mark,Johnson,johnsonm@fvsd.us,925
+1563560,Kern,Lamont Elementary,7915 Burgundy Avenue,Lamont,93241,CA,(661) 845-0751,No Data,Miguel,Guerrero,mguerrero@lesd.us,727
+3073643,Orange,Tustin Unified,300 South C Street,Tustin,92780,CA,(714) 730-7301,No Data,Gregory,Franklin,gfranklin@tustin.k12.ca.us,879
+1563578,Kern,Richland Union Elementary,300 N. Valley,Shafter,93263,CA,(661) 746-8600,No Data,Rosa,Romero,rromero@rsdshafter.org,711
+1563586,Kern,Linns Valley-Poso Flat Union,158 White River Road,Glennville,93226,CA,(661) 536-8811,No Data,Tammy,Pritchard,tapritc@zeus.kern.org,735
+3066431,Orange,Anaheim Union High,501 Crescent Way,Anaheim,92803,CA,(714) 999-3511,No Data,Michael,Matsuda,matsuda_m@auhsd.us,900
+1563594,Kern,Lost Hills Union Elementary,20951 Pavilion Way,Lost Hills,93249,CA,(661) 797-2941,No Data,Harrison,Favereaux,hafaver@losthills.k12.ca.us,759
+3066589,Orange,Magnolia Elementary,2705 West Orange Avenue,Anaheim,92804,CA,(714) 761-5533,No Data,Franklin,Donavan II,fdonavan@magnoliasd.org,816
+1563628,Kern,Maricopa Unified,955 Stanislaus Street,Maricopa,93252,CA,(661) 769-8231,No Data,Scott,Meier,smeier@musd.email,686
+3066449,Orange,Brea-Olinda Unified,1 Civic Center Circle Level 2,Brea,92821,CA,(714) 990-7800,No Data,Brad,Mason,bmason@bousd.us,601
+1563651,Kern,McKittrick Elementary,23250 Second Street,McKittrick,93251,CA,(661) 762-7303,No Data,Barry,Koerner,bakoern@zeus.kern.org,847
+3066514,Orange,Fullerton Joint Union High,1051 West Bastanchury Road,Fullerton,92833,CA,(714) 870-2800,No Data,Scott,Scambray,sscambray@fjuhsd.org,572
+1563669,Kern,Midway Elementary,259 F Street,Fellows,93224,CA,(661) 768-4344,No Data,Al,Quezada,alquezada@midwaytigers.com,816
+3066522,Orange,Garden Grove Unified,10331 Stanford Avenue,Garden Grove,92840,CA,(714) 663-6000,No Data,Gabriela,Mafi,gmafi@ggusd.us,542
+1563677,Kern,Mojave Unified,3500 Douglas Avenue,Mojave,93501,CA,(661) 824-4001,No Data,Aaron,Haughton,aaronhaughton@mojave.k12.ca.us,728
+3367033,Riverside,Corona-Norco Unified,2820 Clark Avenue,Norco,92860,CA,(951) 736-5000,No Data,Michael,Lin,mlin@cnusd.k12.ca.us,839
+1563685,Kern,Muroc Joint Unified,17100 Foothill Avenue,North Edwards,93523,CA,(760) 769-4821,No Data,Kevin,Cordes,kcordes@muroc.k12.ca.us,691
+3066621,Orange,Orange Unified,1401 North Handy Street,Orange,92867,CA,(714) 628-4000,No Data,Gunn Marie,Hansen,superintendent@orangeusd.org,716
+3066647,Orange,Placentia-Yorba Linda Unified,1301 East Orangethorpe Avenue,Placentia,92870,CA,(714) 986-7000,No Data,Gregory,Plutko,gplutko@pylusd.org,794
+1563719,Kern,Pond Union Elementary,29585 Pond Road,Wasco,93280,CA,(661) 792-2545,No Data,Alex,Lopez,alopez@pond.k12.ca.us,822
+3366977,Riverside,Alvord Unified,9 KPC Parkway,Corona,92879,CA,(951) 509-5000,No Data,Allan,Mucerino,superintendent@alvordschools.org,785
+1563750,Kern,Rosedale Union Elementary,2553 Old Farm Road,Bakersfield,93312,CA,(661) 588-6000,No Data,John,Mendiburu,jmendiburu@ruesd.net,868
+1563776,Kern,Southern Kern Unified,2601 Rosamond Boulevard,Rosamond,93560,CA,(661) 256-5000,No Data,Barbara,Gaines,bgaines@skusd.k12.ca.us,746
+1563784,Kern,South Fork Union,5225 Kelso Valley Road,Weldon,93283,CA,(760) 378-4000,6,Kim,Villani,kvillani@southforkschool.org,722
+4269146,Santa Barbara,Carpinteria Unified,1400 Linden Avenue,Carpinteria,93013,CA,(805) 684-4511,No Data,Diana,Rigby,drigby@cusd.net,913
+1563792,Kern,Standard Elementary,1200 North Chester Avenue,Bakersfield,93308,CA,(661) 392-2110,No Data,Paul,Meyers,pmeyers@standardschools.net,791
+1563800,Kern,Taft City,820 Sixth Street,Taft,93268,CA,(661) 763-1521,No Data,Julie,Graves,jgraves@taftcity.org,778
+1563826,Kern,Tehachapi Unified,300 South Robinson Street,Tehachapi,93561,CA,(661) 822-2100,No Data,Stacey,Larson-Everson,severson@teh.k12.ca.us,597
+1573742,Kern,Sierra Sands Unified,113 West Felspar Avenue,Ridgecrest,93555,CA,(760) 499-1600,No Data,Dave,Ostash,superintendent@ssusd.org,545
+1573908,Kern,McFarland Unified,601 Second Street,McFarland,93250,CA,(661) 792-3081,No Data,Samuel,Resendez,saresendez@mcfarland.k12.ca.us,439
+4276786,Santa Barbara,Santa Barbara Unified,720 Santa Barbara Street,Santa Barbara,93101,CA,(805) 963-4338,6201,Cary,Matsuoka,cmatsuoka@sbunified.org,685
+4269161,Santa Barbara,Cold Spring Elementary,2243 Sycamore Canyon Road,Santa Barbara,93108,CA,(805) 969-2678,No Data,Amy,Alzina,aalzina@coldspringschool.net,954
+1663875,Kings,Armona Union Elementary,11115 C Street,Armona,93202,CA,(559) 583-5003,5001,Xavier,Pina,xpina@auesd.org,618
+4269195,Santa Barbara,Goleta Union Elementary,401 North Fairview Avenue,Goleta,93117,CA,(805) 681-1200,No Data,Donna,Lewis,dlewis@goleta.k12.ca.us,815
+1663891,Kings,Corcoran Joint Unified,1520 Patterson Avenue,Corcoran,93212,CA,(559) 992-8888,1224,Richard,Merlo,rmerlo@corcoranunified.com,661
+1663925,Kings,Hanford Joint Union High,823 West Lacey Boulevard,Hanford,93230,CA,(559) 583-5901,No Data,Victor,Rosa,vrosa@hjuhsd.k12.ca.us,745
+1673932,Kings,Reef-Sunset Unified,205 North Park Avenue,Avenal,93204,CA,(559) 386-9083,No Data,David,East,deast@rsusd.org,651
+1764014,Lake,Kelseyville Unified,4410 Konocti Road,Kelseyville,95451,CA,(707) 279-1511,No Data,David,McQueen,davem@kvusd.org,732
+1764022,Lake,Konocti Unified,9430 B Lake Street,Lower Lake,95457,CA,(707) 994-6475,No Data,Becky,Salato,becky.salato@konoctiusd.org,668
+1764048,Lake,Lucerne Elementary,3351 Country Club Drive,Lucerne,95458,CA,(707) 274-5578,No Data,Mike,Brown,mbrown@lucerne.k12.ca.us,746
+1764055,Lake,Middletown Unified,20932 Big Canyon Road,Middletown,95461,CA,(707) 987-4100,No Data,Catherine,Stone,catherine.stone@middletownusd.org,793
+1864089,Lassen,Big Valley Joint Unified,400 Bridge Street,Bieber,96009,CA,(530) 294-5266,No Data,Paula,Silva,psilva@bigvalleyschool.org,731
+1864105,Lassen,Janesville Union Elementary,464-555 Main Street,Janesville,96114,CA,(530) 253-3660,No Data,Edward,Brown,ebrown@janesvilleschool.org,841
+1864162,Lassen,Ravendale-Termo Elementary,709-855 Termo-Grasshopper Road,Termo,96132,CA,(530) 257-8200,No Data,Jason,Waddell,jwaddell@susanvillesd.org,713
+1864188,Lassen,Shaffer Union Elementary,722-055 Highway 395 North,Litchfield,96117,CA,(530) 254-6577,No Data,Jeff,Baker,jbaker@shafferschool.com,713
+1864204,Lassen,Westwood Unified,Fourth and Greenwood Streets,Westwood,96137,CA,(530) 256-2311,No Data,Michael,Altenburg,maltenburg@westwoodusd.org,669
+1875036,Lassen,Fort Sage Unified,100 DS Hall Street,Herlong,96113,CA,(530) 827-2129,No Data,Christopher,Bonn,cbonn@fortsage.org,651
+4275010,Santa Barbara,Cuyama Joint Unified,2300 Highway 166,New Cuyama,93254,CA,(661) 766-2482,No Data,Stephen,Bluestein,sbluestein@cuyamaunified.org,706
+1964477,Los Angeles,Eastside Union Elementary,45006 30th Street East,Lancaster,93535,CA,(661) 952-1200,8213,Joshua,Lightle,jlightle@eastsideusd.org,726
+4068809,San Luis Obispo,San Luis Coastal Unified,1500 Lizzie Street,San Luis Obispo,93401,CA,(805) 549-1200,No Data,Eric,Prater,eprater@slcusd.org,817
+4068759,San Luis Obispo,Lucia Mar Unified,602 Orchard Street,Arroyo Grande,93420,CA,(805) 474-3000,No Data,Andy,Stenson,andy.stenson@lmusd.org,769
+4068700,San Luis Obispo,Atascadero Unified,5601 West Mall,Atascadero,93422,CA,(805) 462-4200,No Data,Thomas,Butler,tombutler@atasusd.org,806
+2765979,Monterey,Bradley Union Elementary,65600 Dixie Street,Bradley,93426,CA,(805) 472-2310,10,Ian,Trejo,itrejo@bradleyusd.org,832
+4269138,Santa Barbara,Buellton Union Elementary,301 Second Street,Buellton,93427,CA,(805) 686-2767,1,Randal,Haggard,rhaggard@buelltonusd.org,852
+1964642,Los Angeles,Keppel Union Elementary,34004 128th Street East,Pearblossom,93553,CA,(661) 944-2155,No Data,Ruben,Zepeda,rzepeda@keppel.k12.ca.us,822
+4075465,San Luis Obispo,Coast Unified,1350 Main Street,Cambria,93428,CA,(805) 927-3880,No Data,Scott,Smith,ssmith@coastusd.org,782
+4068726,San Luis Obispo,Cayucos Elementary,301 Cayucos Drive,Cayucos,93430,CA,(805) 995-3694,No Data,Scott,Smith,ssmith@cayucosschool.org,897
+1964667,Los Angeles,Lancaster Elementary,44711 North Cedar Avenue,Lancaster,93534,CA,(661) 948-4661,134,Michele,Bowers,bowersm@lancsd.org,746
+4269203,Santa Barbara,Guadalupe Union Elementary,4465 Ninth Street,Guadalupe,93434,CA,(805) 343-2114,No Data,Emilio,Handall,ehandall@gusdbobcats.com,694
+4269229,Santa Barbara,Lompoc Unified,1301 North A Street,Lompoc,93436,CA,(805) 742-3300,No Data,Trevor,McDonald,mcdonald.trevor@lusd.org,731
+4269245,Santa Barbara,Los Olivos Elementary,2540 Alamo Pintado Avenue,Los Olivos,93441,CA,(805) 688-4025,No Data,Bridget,Baublits,bbaublits.losolivos@gmail.com,736
+4075457,San Luis Obispo,Paso Robles Joint Unified,800 Niblick Road,Paso Robles,93446,CA,(805) 769-1000,No Data,Julian,Crocker,jjgaviola@pasoschools.org,639
+2766175,Monterey,San Ardo Union Elementary,62428 Center Street,San Ardo,93450,CA,(831) 627-2520,No Data,Catherine,Reimer,creimer@montereycoe.org,674
+4068825,San Luis Obispo,San Miguel Joint Union,1601 L Street,San Miguel,93451,CA,(805) 467-3216,No Data,Curt,Dubost,cdubost@sanmiguelschools.org,822
+4269120,Santa Barbara,Santa Maria-Bonita,708 South Miller Street,Santa Maria,93454,CA,(805) 928-1783,No Data,Luke,Ontiveros,lontiveros@smbsd.net,748
+4269310,Santa Barbara,Santa Maria Joint Union High,2560 Skyway Drive,Santa Maria,93455,CA,(805) 922-4573,4201,Mark,Richardson,mrichardson@smjuhsd.org,731
+4269328,Santa Barbara,Santa Ynez Valley Union High,2975 East Highway 246,Santa Ynez,93460,CA,(805) 688-6487,3200,Scott,Cory,scory@syvuhsd.org,826
+4068833,San Luis Obispo,Shandon Joint Unified,101 South First Street,Shandon,93461,CA,(805) 238-0286,No Data,Kristina,Benson,kbenson@shandonschools.org,690
+4269336,Santa Barbara,Solvang Elementary,565 Atterdag Road,Solvang,93463,CA,(805) 688-4810,No Data,Steve,Seaford,sseaford@solvangschool.org,849
+4068841,San Luis Obispo,Templeton Unified,960 Old County Road,Templeton,93465,CA,(805) 434-5800,No Data,Aaron,Asplund,aasplund@templetonusd.org,722
+1975309,Los Angeles,Acton-Agua Dulce Unified,32248 North Crown Valley Road,Acton,93510,CA,(661) 269-0750,No Data,Lawrence,King,lking@aadusd.k12.ca.us,699
+1964857,Los Angeles,Palmdale Elementary,39139 10th Street East,Palmdale,93550,CA,(661) 947-7191,No Data,Raul,Maldonado,rmaldonado@palmdalesd.org,491
+1965102,Los Angeles,Westside Union Elementary,41914 50th Street West,Quartz Hill,93536,CA,(661) 722-0716,No Data,Regina,Rossall,r.rossall@westside.k12.ca.us,872
+3667892,San Bernardino,Trona Joint Unified,83600 Trona Road,Trona,93562,CA,(760) 372-2861,No Data,Keith,Tomes,ktomes@tjusd.net,712
+1965151,Los Angeles,Wilsona Elementary,18050 East Avenue O,Palmdale,93591,CA,(661) 264-1111,No Data,Susan,Andreas-Bervel,sbervel@wilsona.k12.ca.us,757
+2065193,Madera,Chowchilla Elementary,355 North Fifth Street,Chowchilla,93610,CA,(559) 665-8000,No Data,Charles,Martin,martinc@chowkids.com,769
+2465755,Merced,Los Banos Unified,1717 South 11th Street,Los Banos,93635,CA,(209) 826-3801,No Data,Mark,Marshall,mmarshall@losbanosusd.k12.ca.us,791
+2075580,Madera,Golden Valley Unified,37479 Avenue 12,Madera,93636,CA,(559) 645-3570,No Data,Rodney,Wallace,rwallace@gvusd.org,828
+2065243,Madera,Madera Unified,1902 Howard Road,Madera,93637,CA,(559) 675-4500,220,Todd,Lile,toddlile@maderausd.org,819
+2075606,Madera,Chawanakee Unified,26065 Outback Industrial Way,Oneals,93645,CA,(559) 877-6209,209,Darren,Sylvia,dsylvia@mychawanakee.org,768
+2165300,Marin,Bolinas-Stinson Union,125 Olema-Bolinas Road,Bolinas,94924,CA,(415) 868-1603,No Data,John,Carroll,jcarroll@bolinas-stinson.org,842
+2165334,Marin,Kentfield Elementary,750 College Avenue,Kentfield,94904,CA,(415) 458-5130,No Data,Liz,Schott,lschott@kentfieldschools.org,926
+2766142,Monterey,Salinas City Elementary,840 South Main Street,Salinas,93901,CA,(831) 753-5600,No Data,Martha,Martinez,mmartinez@salinascity.k12.ca.us,739
+2165359,Marin,Lagunitas Elementary,One Lagunitas School Road,San Geronimo,94963,CA,(415) 488-4118,201,John,Carroll,jcarroll@lagunitas.org,795
+2165367,Marin,Larkspur-Corte Madera,230 Doherty Drive,Larkspur,94939,CA,(415) 927-6960,5,Brett,Geithman,bgeithman@lcmschools.org,918
+2766191,Monterey,Santa Rita Union Elementary,57 Russell Road,Salinas,93906,CA,(831) 443-7200,No Data,Tim,Ryan,tryan@santaritaschools.org,838
+2165391,Marin,Mill Valley Elementary,411 Sycamore Avenue,Mill Valley,94941,CA,(415) 389-7700,No Data,Raquel,Rose,rrose@mvschools.org,940
+2766076,Monterey,Lagunita Elementary,975 San Juan Grade Road,Salinas,93907,CA,(831) 449-2800,No Data,Daniel,Stonebloom,dstonebloom@montereycoe.org,879
+2165409,Marin,Nicasio,5555 Nicasio Valley Road,Nicasio,94946,CA,(415) 662-2184,No Data,Jan,La Torre-Derby,janlatorre@marinschools.org,841
+2766233,Monterey,Washington Union Elementary,43 San Benancio Road,Salinas,93908,CA,(831) 484-2611,No Data,Gina,Uccelli,guccelli@washingtonusd.org,896
+2165417,Marin,Novato Unified,1015 Seventh Street,Novato,94945,CA,(415) 897-4201,No Data,Kris,Cosca,kcosca@nusd.org,752
+2165425,Marin,Reed Union Elementary,277-A Karen Way,Tiburon,94920,CA,(415) 381-1112,No Data,Nancy,Lynch,nlynch@reedschools.org,957
+2775150,Monterey,Big Sur Unified,69325 Highway 1,Big Sur,93920,CA,(805) 927-4507,No Data,Jonathan,Sison,jonathan.sison@bigsurunified.org,814
+2165433,Marin,Ross Elementary,9 Lagunitas Road,Ross,94957,CA,(415) 457-2705,201,Michael,McDowell,mpmcdowell@rossbears.org,934
+2765987,Monterey,Carmel Unified,4380 Carmel Valley Road,Carmel,93922,CA,(831) 624-1546,2021,Barbara,Dill-Varga,bdillvarga@carmelunified.org,868
+2765995,Monterey,Chualar Union,24285 Lincoln Street,Chualar,93925,CA,(831) 679-2504,No Data,Roberto,Rios,rrios_26@yahoo.com,737
+2775473,Monterey,Gonzales Unified,600 Elko Street,Gonzales,93926,CA,(831) 675-0100,8110,Yvette,Irving,yirving@gonzales.k12.ca.us,481
+2165474,Marin,Sausalito Marin City,200 Phillips Drive,Sausalito,94965,CA,(415) 332-3190,No Data,Itoco,Garcia,igarcia@smcsd.org,760
+2766035,Monterey,Greenfield Union Elementary,493 El Camino Real,Greenfield,93927,CA,(831) 674-2840,No Data,Zandra,Galvan,zjgalvan@greenfield.k12.ca.us,632
+2165482,Marin,Tamalpais Union High,395 Doherty Drive,Larkspur,94977,CA,(415) 945-3600,No Data,Tara,Taupier,ttaupier@tamdistrict.org,867
+3567454,San Benito,Bitterwater-Tully Elementary,45980 Airline Hwy   State Highway 25,King City,93930,CA,(831) 385-5339,No Data,Candace,Brewen,candacebrewen@yahoo.com,839
+2173361,Marin,Shoreline Unified,10 John Street,Tomales,94971,CA,(707) 878-2266,No Data,Bob,Raines,bob.raines@shorelineunified.org,784
+2766167,Monterey,San Antonio Union Elementary,67550 Lockwood/Jolon Road,Lockwood,93932,CA,(831) 385-3051,No Data,Josh,Van Norman,jvannorman@sanantoniousd.org,824
+2175002,Marin,Ross Valley Elementary,110 Shaw Drive,San Anselmo,94960,CA,(415) 454-2162,No Data,Rick,Bagley,rbagley@rossvalleyschools.org,887
+2766092,Monterey,Monterey Peninsula Unified,700 Pacific Street,Monterey,93940,CA,(831) 645-1200,No Data,Daniel,Diffenbaugh,pkdiffenbaugh@mpusd.k12.ca.us,722
+2766134,Monterey,Pacific Grove Unified,435 Hillcrest Avenue,Pacific Grove,93950,CA,(831) 646-6520,No Data,Ralph,Porras,rporras@pgusd.org,851
+2766183,Monterey,San Lucas Union Elementary,53675 San Benito Street,San Lucas,93954,CA,(831) 382-4426,No Data,Jessica,Riley,jriley@montereycoe.org,714
+2775440,Monterey,Soledad Unified,1261 Metz Road,Soledad,93960,CA,(831) 678-3987,123,Timothy,Vanoli,tvanoli@soledad.k12.ca.us,817
+2365540,Mendocino,Anderson Valley Unified,12300 Anderson Valley Way,Boonville,95415,CA,(707) 895-3774,No Data,Michael,Warych,mwarych@avpanthers.org,798
+2766225,Monterey,Spreckels Union Elementary,130 Railroad Avenue,Spreckels,93962,CA,(831) 455-2550,311,Eric,Tarallo,etarallo@spreckelsdistrict.org,878
+2365557,Mendocino,Arena Union Elementary,45 Lake Street,Point Arena,95468,CA,(707) 882-2803,No Data,Warren,Galletti,wgalletti@mcn.org,752
+2365565,Mendocino,Fort Bragg Unified,312 South Lincoln Street,Fort Bragg,95437,CA,(707) 961-2850,3525,Rebecca,Walker,bwalker@fbusd.us,779
+4168874,San Mateo,Brisbane Elementary,1 Solano Street,Brisbane,94005,CA,(415) 467-0550,No Data,Ronan,Collver,rcollver@brisbanesd.org,844
+2365573,Mendocino,Manchester Union Elementary,19550 South Highway 1,Manchester,95459,CA,(707) 882-2374,No Data,Cynthia L. B.,Gonzalez,mansupt@mcn.org,721
+4168882,San Mateo,Burlingame Elementary,1825 Trousdale Drive,Burlingame,94010,CA,(650) 259-3800,No Data,Maggie,MacIsaac,mmacisaac@burlingameschools.org,894
+2365581,Mendocino,Mendocino Unified,44141 Little Lake Road,Mendocino,95460,CA,(707) 937-5868,No Data,Jason,Morse,jmorse@mcn.org,839
+4168858,San Mateo,Bayshore Elementary,155 Oriente Street,Daly City,94014,CA,(415) 467-5443,No Data,Audra,Pittman,apittman@thebayshoreschool.org,740
+2365607,Mendocino,Round Valley Unified,76280 High School Street,Covelo,95428,CA,(707) 983-6171,No Data,Mike,Gorman,mgorman@rvusd.us,654
+4168916,San Mateo,Jefferson Elementary,101 Lincoln Avenue,Daly City,94015,CA,(650) 991-1000,No Data,Bernardo,Vidales,bvidales@jeffersonesd.org,802
+3968544,San Joaquin,Jefferson Elementary,1219 Whispering Wind Drive,Tracy,95377,CA,(209) 836-3388,No Data,James,Bridges,jbridges@jsdtracy.com,802
+4168890,San Mateo,Cabrillo Unified,498 Kelly Avenue,Half Moon Bay,94019,CA,(650) 712-7100,No Data,Jane,Yuster,yusterj@cabrillo.k12.ca.us,791
+2365623,Mendocino,Willits Unified,1277 Blosser Lane,Willits,95490,CA,(707) 459-5134,No Data,Mark,Westerburg,markwesterburg@willitsunified.com,714
+4369518,Santa Clara,Los Altos Elementary,201 Covington Road,Los Altos,94024,CA,(650) 947-1150,No Data,Jeffrey,Baier,jbaier@lasdschools.org,958
+4168957,San Mateo,Las Lomitas Elementary,1011 Altschul Avenue,Menlo Park,94025,CA,(650) 854-6311,No Data,Lisa,Cesario,lcesario@llesd.org,968
+2373916,Mendocino,Laytonville Unified,150 Ramsey Road,Laytonville,95454,CA,(707) 984-6414,No Data,Joan,Potter,jvpotter@mcn.org,723
+4168965,San Mateo,Menlo Park City Elementary,181 Encinal Avenue,Atherton,94027,CA,(650) 321-7140,No Data,Erik,Burmeister,eburmeister@mpcsd.org,932
+2375218,Mendocino,Leggett Valley Unified,1 School Way,Leggett,95585,CA,(707) 925-6285,No Data,Anthony,Loumena,anthony@leggett.k12.ca.us,833
+4168981,San Mateo,Portola Valley Elementary,4575 Alpine Road,Portola Valley,94028,CA,(650) 851-1777,No Data,Roberta,Zarea,rzarea@pvsd.net,944
+4168973,San Mateo,Millbrae Elementary,555 Richmond Drive,Millbrae,94030,CA,(650) 697-5693,29,Vahn,Phayprasert,vphayprasert@millbraesd.org,890
+2465631,Merced,Atwater Elementary,1401 Broadway Avenue,Atwater,95301,CA,(209) 357-6100,No Data,Sandra,Schiber,sschiber@aesd.edu,786
+2465649,Merced,Ballico-Cressey Elementary,11818 West Gregg Street,Ballico,95303,CA,(209) 632-5371,No Data,Bliss,Propes,bboesch@ballicocressey.com,839
+4369591,Santa Clara,Mountain View Whisman,1400 Montecito Avenue,Mountain View,94043,CA,(650) 526-3552,No Data,Ayinde,Rudolph,supt@mvwsd.org,983
+2465680,Merced,El Nido Elementary,161 East El Nido Road,El Nido,95317,CA,(209) 385-8420,No Data,Rae Ann,Jimenez,rjimenez@elnido.k12.ca.us,798
+4168932,San Mateo,Pacifica,375 Reina del Mar Avenue,Pacifica,94044,CA,(650) 738-6600,No Data,Heather,Olsen,holsen@pacificasd.org,854
+2465698,Merced,Hilmar Unified,7807 North Lander Avenue,Hilmar,95324,CA,(209) 667-5701,No Data,Isabel,Cabral-Johnson,icjohnson@hilmar.k12.ca.us,775
+4168940,San Mateo,La Honda-Pescadero Unified,360 Butano Cut Off,Pescadero,94060,CA,(650) 879-0286,No Data,Amy,Wooliever,amyw@lhpusd.com,763
+2465722,Merced,Le Grand Union Elementary,13071 East Le Grand Road,Le Grand,95333,CA,(209) 389-1036,No Data,Scott,Borba,sborba@lgelm.org,743
+4169062,San Mateo,Sequoia Union High,480 James Avenue,Redwood City,94062,CA,(650) 369-1411,No Data,Mary,Streshly,mstreshly@seq.org,852
+4169005,San Mateo,Redwood City Elementary,750 Bradford Street,Redwood City,94063,CA,(650) 482-2200,No Data,John,Baker,jbaker@rcsdk8.net,812
+2465748,Merced,Livingston Union,922 B Street,Livingston,95334,CA,(209) 394-5400,No Data,Andres,Zamora,azamora@livingstonusd.org,786
+4169013,San Mateo,San Bruno Park Elementary,500 Acacia Avenue,San Bruno,94066,CA,(650) 624-3100,No Data,Stella,Kemp,skemp@sbpsd.k12.ca.us,917
+4169021,San Mateo,San Carlos Elementary,1200 Industrial Road  Unit 9,San Carlos,94070,CA,(650) 590-5935,No Data,Michelle,Harmeier,mharmeier@scsdk8.org,949
+2465771,Merced,Merced City Elementary,444 West 23rd Street,Merced,95340,CA,(209) 385-6600,No Data,RoseMary,Duran,rpargaduran@mcsd.k12.ca.us,776
+4169070,San Mateo,South San Francisco Unified,398 B Street,South San Francisco,94080,CA,(650) 877-8700,No Data,Shawnterra,Moore,smoore@ssfusd.org,500
+4369690,Santa Clara,Sunnyvale,819 West Iowa Avenue,Sunnyvale,94088,CA,(408) 522-8200,No Data,Benjamin,Picard,benjamin.picard@sesd.org,782
+2465821,Merced,Planada Elementary,9722 East Haskell Avenue,Planada,95365,CA,(209) 382-0756,No Data,Jose,Gonzalez,jgonzalez@planada.org,797
+2465870,Merced,Winton,7000 North Center Street,Winton,95388,CA,(209) 357-6175,7508,Randall,Heller,rheller@winton.k12.ca.us,767
+2473619,Merced,Gustine Unified,1500 Meredith Avenue,Gustine,95322,CA,(209) 854-3784,No Data,Bryan,Ballenger,bballenger@gustineusd.org,730
+4168999,San Mateo,Ravenswood City Elementary,2120 Euclid Avenue,East Palo Alto,94303,CA,(650) 329-2800,60101,Gina,Sudaria,gsudaria@ravenswoodschools.org,676
+4369641,Santa Clara,Palo Alto Unified,25 Churchill Ave,Palo Alto,94306,CA,(650) 329-3700,No Data,Donald,Austin,daustin@pausd.org,915
+4169047,San Mateo,San Mateo Union High,650 North Delaware Street,San Mateo,94401,CA,(650) 558-2299,No Data,Kevin,Skelly,kskelly@smuhsd.org,844
+2475366,Merced,Delhi Unified,9716 Hinton Avenue,Delhi,95315,CA,(209) 656-2000,7902,Adolfo,Melara,amelara@delhiusd.org,791
+4169039,San Mateo,San Mateo-Foster City,1170 Chess Drive,Foster City,94404,CA,(650) 312-7348,No Data,Joan,Rosas,jrosas@smfcsd.net,789
+2565896,Modoc,Surprise Valley Joint Unified,470 Lincoln Street,Cedarville,96104,CA,(530) 279-6141,124,Misti,Norby,mnorby@modoccoe.org,739
+2866258,Napa,Howell Mountain Elementary,525 White Cottage Road North,Angwin,94508,CA,(707) 965-2423,No Data,Janet,Tufts,jtufts@hmesd.org,776
+2573593,Modoc,Tulelake Basin Joint Unified,400 G Street,Tulelake,96134,CA,(530) 667-2295,No Data,Bryce,Brin,bbrin@tbjusd.org,719
+2866241,Napa,Calistoga Joint Unified,1520 Lake Street,Calistoga,94515,CA,(707) 942-4703,No Data,Erin,Smith-Hagberg,esmith-hagberg@calistogaschools.org,760
+2866266,Napa,Napa Valley Unified,2425 Jefferson Street,Napa,94558,CA,(707) 253-3511,No Data,Rosanna,Mucetti,rmucetti@nvusd.org,757
+2773825,Monterey,North Monterey County Unified,8142 Moss Landing Road,Moss Landing,95039,CA,(831) 633-3343,No Data,Kari,Yeater,kyeater@nmcusd.org,707
+2866282,Napa,Pope Valley Union Elementary,6200 Pope Valley Road,Pope Valley,94567,CA,(707) 965-2402,201,Kenneth,Burkhart,kburkhart@pvk8.org,771
+3467413,Sacramento,River Delta Joint Unified,445 Montezuma Street,Rio Vista,94571,CA,(707) 374-1700,No Data,Katherine,Wright,kwright@rdusd.org,736
+2866290,Napa,Saint Helena Unified,465 Main Street,St. Helena,94574,CA,(707) 967-2708,No Data,Marylou,Wilson,mwilson@sthelenaunified.org,806
+2966324,Nevada,Clear Creek Elementary,17700 McCourtney Road,Grass Valley,95949,CA,(530) 273-3664,No Data,Dan,Zeisler,dzeisler@clearcreekschool.org,866
+2966357,Nevada,Nevada Joint Union High,11645 Ridge Road,Grass Valley,95945,CA,(530) 273-3351,No Data,Brett,McFadden,bmcfadden@njuhsd.com,931
+2966415,Nevada,Twin Ridges Elementary,16661 Old Mill Road,Nevada City,95959,CA,(530) 265-9052,208,James,Berardi,jberardi@tresd.org,736
+4469807,Santa Cruz,San Lorenzo Valley Unified,325 Marion Avenue,Ben Lomond,95005,CA,(831) 336-5194,No Data,Laurie,Bruton,lbruton@slvusd.org,797
+4369393,Santa Clara,Campbell Union,155 North Third Street,Campbell,95008,CA,(408) 364-4200,No Data,Shelly,Viramontez,sviramontez@campbellusd.org,945
+4469849,Santa Cruz,Soquel Union Elementary,620 Monterey Avenue,Capitola,95010,CA,(831) 464-5639,No Data,Scott,Turnbull,sturnbull@suesd.org,824
+4469781,Santa Cruz,Pacific Elementary,50 Ocean Street,Davenport,95017,CA,(831) 425-7002,No Data,Eric,Gross,egross@pacificesd.org,866
+4369484,Santa Clara,Gilroy Unified,7810 Arroyo Circle,Gilroy,95020,CA,(669) 225-4000,No Data,Deborah,Flores,debbie.flores@gilroyunified.org,838
+4369526,Santa Clara,Los Gatos Union Elementary,17010 Roberts Road,Los Gatos,95032,CA,(408) 335-2000,No Data,Paul,Johnson,pjohnson@lgusd.org,954
+4373387,Santa Clara,Milpitas Unified,1331 East Calaveras Boulevard,Milpitas,95035,CA,(408) 635-2600,6006,Cheryl,Jordan,cjordan@musd.org,569
+4369583,Santa Clara,Morgan Hill Unified,15600 Concord Circle,Morgan Hill,95037,CA,(408) 201-6023,No Data,Steve,Betando,betandos@mhusd.org,785
+3166795,Placer,Colfax Elementary,24825 Ben Taylor Road,Colfax,95713,CA,(530) 346-2202,221,John,Baggett,jbaggett@colfax.k12.ca.us,721
+3166803,Placer,Dry Creek Joint Elementary,8849 Cook Riolo Road,Roseville,95747,CA,(916) 770-8800,No Data,Brad,Tooker,superintendent@dcjesd.us,836
+4369674,Santa Clara,Santa Clara Unified,1889 Lawrence Road,Santa Clara,95051,CA,(408) 423-2000,No Data,Stanley,Rose,srose@scusd.net,860
+3166829,Placer,Eureka Union,5455 Eureka Road,Granite Bay,95746,CA,(916) 791-4939,No Data,Tom,Janis,tjanis@eurekausd.org,896
+3166837,Placer,Foresthill Union Elementary,24750 Main Street,Foresthill,95631,CA,(530) 367-2966,672966,Jack,Kraemer,jkraemer@fusd.org,825
+4469765,Santa Cruz,Live Oak Elementary,984 Bostwick Lane  Suite 1,Santa Cruz,95062,CA,(831) 475-6333,No Data,Lorie,Chamberland,lchamberland@losd.ca,762
+3166845,Placer,Loomis Union Elementary,3290 Humphrey Road,Loomis,95650,CA,(916) 652-1800,No Data,Gordon,Medd,gmedd@loomis-usd.k12.ca.us,933
+4469757,Santa Cruz,Happy Valley Elementary,3125 Branciforte Drive,Santa Cruz,95065,CA,(831) 429-1456,No Data,Michelle,McKinny,mmckinny@hvesd.com,927
+3166852,Placer,Newcastle Elementary,645 Kentucky Greens Way,Newcastle,95658,CA,(916) 259-2832,No Data,Denny,Rush,drush@newcastle.k12.ca.us,894
+4475432,Santa Cruz,Scotts Valley Unified,4444 Scotts Valley Drive  Suite 5B,Scotts Valley,95066,CA,(831) 438-1820,105,Tanya,Krause,tkrause@scottsvalleyusd.org,860
+3166886,Placer,Placer Hills Union Elementary,16801 Placer Hills Road,Meadow Vista,95722,CA,(530) 878-2606,No Data,Julie,Kehoe,jkehoe@phusd.org,878
+4369682,Santa Clara,Saratoga Union Elementary,20460 Forrest Hills Drive,Saratoga,95070,CA,(408) 867-3424,204,Nancy,Johnson,njohnson@saratogausd.org,977
+4469773,Santa Cruz,Mountain Elementary,3042 Old San Jose Road,Soquel,95073,CA,(831) 475-6812,12,Diane,Morgenstern,dmorgenstern@mountainesd.org,914
+3166910,Placer,Roseville City Elementary,1050 Main Street,Roseville,95678,CA,(916) 771-1600,No Data,Derk,Garcia,dgarcia@rcsdk8.org,912
+3567561,San Benito,Tres Pinos Union Elementary,5635 Airline Highway,Tres Pinos,95075,CA,(831) 637-0503,No Data,Bronson,Mendes-LoBue,blobue@sbcoe.k12.ca.us,746
+3166928,Placer,Roseville Joint Union High,1750 Cirby Way,Roseville,95661,CA,(916) 786-2051,No Data,Denise,Herrmann,dherrmann@rjuhsd.us,810
+4469799,Santa Cruz,Pajaro Valley Unified,294 Green Valley Road,Watsonville,95076,CA,(831) 786-2100,No Data,Michelle,Rodriguez,michelle_rodriguez@pvusd.net,697
+3166944,Placer,Tahoe-Truckee Unified,11603 Donner Pass Road,Truckee,96161,CA,(530) 582-2500,No Data,Robert,Leri,rleri@ttusd.org,819
+4369450,Santa Clara,Franklin-McKinley Elementary,645 Wool Creek Drive,San Jose,95112,CA,(408) 283-6006,No Data,Juan,Cruz,juan.cruz@fmsd.org,866
+3166951,Placer,Western Placer Unified,600 Sixth Street  Suite 400,Lincoln,95648,CA,(916) 645-6350,No Data,Scott,Leaman,sleaman@wpusd.org,869
+4369625,Santa Clara,Oak Grove Elementary,6578 Santa Teresa Boulevard,San Jose,95119,CA,(408) 227-8300,No Data,Jose,Manzo,jmanzo@ogsd.net,792
+3175085,Placer,Rocklin Unified,2615 Sierra Meadows Drive,Rocklin,95677,CA,(916) 624-2428,No Data,Roger,Stock,rstock@rocklinusd.org,896
+4369401,Santa Clara,Campbell Union High,3235 Union Avenue,San Jose,95124,CA,(408) 371-0960,No Data,Robert,Bravo,rbravo@cuhsd.org,824
+4369369,Santa Clara,Alum Rock Union Elementary,2930 Gay Avenue,San Jose,95127,CA,(408) 928-6800,No Data,Hilaria,Bauer,hilaria.bauer@arusd.org,909
+4369542,Santa Clara,Luther Burbank,4 Wabash Avenue,San Jose,95128,CA,(408) 295-2450,236,Christopher,Ortiz,cortiz@lbsd.k12.ca.us,773
+4369575,Santa Clara,Moreland,4711 Campbell Avenue,San Jose,95130,CA,(408) 874-2901,No Data,Mary Kay,Going,mkgoing@moreland.org,947
+4369633,Santa Clara,Orchard Elementary,921 Fox Lane,San Jose,95131,CA,(408) 944-0397,No Data,Wendy,Gudalewicz,wgudalewicz@orchardsd.org,789
+4369377,Santa Clara,Berryessa Union Elementary,1376 Piedmont Road,San Jose,95132,CA,(408) 923-1800,No Data,Roxane,Fuentes,rfuentes@busd.net,864
+4369427,Santa Clara,East Side Union High,830 North Capitol Avenue,San Jose,95133,CA,(408) 347-5000,No Data,Chris,Funk,funkc@esuhsd.org,668
+3968569,San Joaquin,Lincoln Unified,2010 West Swain Road,Stockton,95207,CA,(209) 953-8700,No Data,Kelly,Dextraze,kdextraze@lusd.net,606
+3968635,San Joaquin,Oak View Union Elementary,7474 East Collier Road,Acampo,95220,CA,(209) 368-0636,No Data,Beverly,Boone,bboone@myoakview.com,874
+3968577,San Joaquin,Linden Unified,18527 East Main Street,Linden,95236,CA,(209) 887-3894,No Data,Rick,Hall,rihall@sjcoe.net,571
+3968585,San Joaquin,Lodi Unified,1305 East Vine Street,Lodi,95240,CA,(209) 331-7000,No Data,Cathy,Washer,cwasher@lodiusd.net,812
+3968627,San Joaquin,New Jerusalem Elementary,31400 South Koster Road,Tracy,95304,CA,(209) 830-6363,2210,David,Thoming,dthoming@njes.org,791
+3467280,Sacramento,Arcohe Union Elementary,11755 Ivie Road,Herald,95638,CA,(209) 748-2313,205,Troy,Miller,miller@arcohe.net,771
+3467314,Sacramento,Elk Grove Unified,9510 Elk Grove-Florin Road,Elk Grove,95624,CA,(916) 686-5085,No Data,Christopher,Hoffman,choffman@egusd.net,892
+3467322,Sacramento,Elverta Joint Elementary,7900 Eloise Avenue,Elverta,95626,CA,(916) 991-2244,No Data,Michael,Borgaard,mborgaard@ejesd.net,777
+3968502,San Joaquin,Escalon Unified,1520 East Yosemite Avenue,Escalon,95320,CA,(209) 838-3591,No Data,Ron,Costa,rcosta@escalonusd.org,538
+3467330,Sacramento,Folsom-Cordova Unified,1965 Birkmont Drive,Rancho Cordova,95742,CA,(916) 294-9025,No Data,Sarah,Koligian,skoligian@fcusd.org,953
+3467355,Sacramento,Galt Joint Union High,12945 Marengo Road,Galt,95632,CA,(209) 745-0249,No Data,William,Spalding,wspalding@ghsd.k12.ca.us,777
+3467421,Sacramento,Robla Elementary,5248 Rose Street,Sacramento,95838,CA,(916) 649-5248,No Data,Ruben,Reyes,rreyes@robla.k12.ca.us,773
+3467439,Sacramento,Sacramento City Unified,5735 47th Avenue,Sacramento,95824,CA,(916) 643-9000,No Data,Jorge,Aguilar,superintendent@scusd.edu,886
+3467447,Sacramento,San Juan Unified,3738 Walnut Avenue,Carmichael,95608,CA,(916) 971-7700,No Data,Kent,Kern,kkern@sanjuan.edu,809
+3473973,Sacramento,Center Joint Unified,8408 Watt Avenue,Antelope,95843,CA,(916) 338-6400,No Data,Scott,Loehr,sloehr@centerusd.org,760
+3475283,Sacramento,Natomas Unified,1901 Arena Boulevard,Sacramento,95834,CA,(916) 567-5400,No Data,Chris,Evans,cevans@natomasunified.org,736
+3476505,Sacramento,Twin Rivers Unified,5115 Dudley Boulevard,McClellan,95652,CA,(916) 566-1600,No Data,Steven,Martinez,steve.martinez@twinriversusd.org,722
+3968593,San Joaquin,Manteca Unified,2271 W. Louise Avenue,Manteca,95337,CA,(209) 825-3200,No Data,Clark,Burke,cburke@musd.net,711
+3968650,San Joaquin,Ripon Unified,304 North Acacia Avenue,Ripon,95366,CA,(209) 599-2131,No Data,Ziggy,Robeson,zrobeson@sjcoe.net,899
+3975499,San Joaquin,Tracy Joint Unified,1875 West Lowell Avenue,Tracy,95376,CA,(209) 830-3200,No Data,Brian,Stephens,bstephens@tusd.net,930
+3976760,San Joaquin,Lammersville Joint Unified,111 S. De Anza Boulevard,Mountain House,95391,CA,(209) 836-7400,No Data,Kirk,Nicholas,knicholas@sjcoe.net,854
+4770367,Siskiyou,Junction Elementary,98821 Highway 96,Somes Bar,95568,CA,(530) 469-3373,No Data,Sammi,Offield,soffield@junction.k12.ca.us,877
+4570045,Shasta,Junction Elementary,9087 Deschutes Road,Palo Cedro,96073,CA,(530) 547-3274,No Data,Richard,Gifford,rgifford@junctionesd.net,877
+3968619,San Joaquin,New Hope Elementary,26675 North Sacramento Boulevard,Thornton,95686,CA,(209) 794-2376,No Data,Janet,Stemler,jstemler@sjcoe.net,763
+4569971,Shasta,Enterprise Elementary,1155 Mistletoe Lane,Redding,96002,CA,(530) 224-4100,No Data,Brian,Winstead,bwinstead@eesd.net,788
+4575267,Shasta,Gateway Unified,4411 Mountain Lakes Boulevard,Redding,96003,CA,(530) 245-7900,No Data,James,Harrell,jharrell@gwusd.org,811
+4569914,Shasta,Cascade Union Elementary,1645 West Mill Street,Anderson,96007,CA,(530) 378-7000,No Data,Jason,Provence,jason.provence@cuesd.com,752
+4569872,Shasta,Bella Vista Elementary,22661 Old Alturas Road,Bella Vista,96008,CA,(530) 549-4415,No Data,Charlie,Hoffman,choffman@strop.org,828
+4569989,Shasta,Fall River Joint Unified,20375 Tamarack Avenue,Burney,96013,CA,(530) 335-4538,No Data,Merrill,Grant  Ed.D.,mgrant@frjusd.org,783
+4569922,Shasta,Castle Rock Union Elementary,29373 Main Street,Castella,96017,CA,(530) 235-0101,No Data,Autumn,Funk,afunk@castlerockschool.net,792
+4569955,Shasta,Cottonwood Union Elementary,20512 West First Street,Cottonwood,96022,CA,(530) 347-3165,No Data,Douglas,Geren,dgeren@cwusd.com,797
+4570052,Shasta,Millville Elementary,8570 Brookdale Road,Millville,96062,CA,(530) 547-4471,No Data,Mindy,DeSantis,mrs.desantis@millvilleschool.net,898
+4573700,Shasta,Mountain Union Elementary,30365 Highway 299 East,Montgomery Creek,96065,CA,(530) 337-6214,No Data,Clay,Ross,cross@muesd.org,744
+4569880,Shasta,Black Butte Union Elementary,7752 Ponderosa Way,Shingletown,96088,CA,(530) 474-3125,153,Don,Aust,daust@blackbutteschool.org,793
+4570128,Shasta,Shasta Union Elementary,10446 Red Bluff Road,Shasta,96087,CA,(530) 243-1110,No Data,Robert,Adams,rjadams@rsdnmp.org,761
+4570169,Shasta,Whitmore Union Elementary,30611 WHITMORE Road,WHITMORE,96096,CA,(530) 472-3243,No Data,Lawrence,Robins,lrobins@wujesd.org,835
+4770243,Siskiyou,Dunsmuir Elementary,4760 Siskiyou Avenue,Dunsmuir,96025,CA,(530) 235-4828,No Data,Susan,Keeler,skeeler@dunsmuir.k12.ca.us,758
+4770318,Siskiyou,Gazelle Union Elementary,25305 Gazelle-Callahan Road,Gazelle,96034,CA,(530) 435-2321,No Data,Mary,Ingram,mingram@gazelle.k12.ca.us,805
+4770326,Siskiyou,Grenada Elementary,516 Shasta Boulevard,Grenada,96038,CA,(530) 436-2233,No Data,GingerLee,Charles,gingerlee.charles@grenada.k12.ca.us,822
+4770334,Siskiyou,Happy Camp Union Elementary,114 Park Way,Happy Camp,96039,CA,(530) 493-2267,No Data,Alan,Dyar,adyar@happycamp.k12.ca.us,756
+4770359,Siskiyou,Hornbrook Elementary,15430 Oregon Road,Hornbrook,96044,CA,(530) 475-3598,No Data,Kelly,Bear,kbear@hornbrookschool.org,775
+4770409,Siskiyou,McCloud Union Elementary,332 Hamilton Way,McCloud,96057,CA,(530) 964-2133,No Data,Shelley,Cain,scain@sisnet.ssku.k12.ca.us,815
+4770417,Siskiyou,Montague Elementary,430 East Prather Street,Montague,96064,CA,(530) 459-3001,1004,Matthew,Dustan,mdustan@montague.k12.ca.us,780
+4770458,Siskiyou,Seiad Elementary,44539 Highway 96,Seiad Valley,96086,CA,(530) 496-3308,No Data,Marsha,Jackson,mjackson@seiad.k12.ca.us,844
+4770466,Siskiyou,Siskiyou Union High,624 Everitt Memorial Highway,Mount Shasta,96067,CA,(530) 926-3006,No Data,Michael,Matheson,mmatheson@sisuhsd.net,696
+4770482,Siskiyou,Weed Union Elementary,575 White Avenue,Weed,96094,CA,(530) 938-2715,No Data,Alisa,Cummings,wesprincipal@weedelem.k12.ca.us,729
+4773684,Siskiyou,Butte Valley Unified,615 West Third Street,Dorris,96023,CA,(530) 397-4000,No Data,Heidi,Gerig,hgerig@bvalusd.org,708
+4776455,Siskiyou,Scott Valley Unified,11918 Main Street,Fort Jones,96032,CA,(530) 468-2727,No Data,Marie,Caldwell,mcaldwell@svusd.us,805
+4870524,Solano,Benicia Unified,350 East K Street,Benicia,94510,CA,(707) 747-8300,No Data,Charles,Young,cyoung@beniciaunified.org,632
+4870532,Solano,Dixon Unified,180 South First Street  Suite 6,Dixon,95620,CA,(707) 693-6300,No Data,Brian,Dolan,bdolan@dixonusd.org,486
+4870540,Solano,Fairfield-Suisun Unified,2490 Hilborn Road,Fairfield,94534,CA,(707) 399-5000,No Data,Kris,Corey,krisc@fsusd.org,773
+4870565,Solano,Travis Unified,2751 De Ronde Drive,Fairfield,94533,CA,(707) 437-4604,No Data,Pam,Conklin,pconklin@travisusd.org,558
+4870573,Solano,Vacaville Unified,401 Nut Tree Road,Vacaville,95687,CA,(707) 453-6117,No Data,Jane,Shamieh,janes@vusd.solanocoe.k12.ca.us,852
+4870581,Solano,Vallejo City Unified,665 Walnut Avenue,Vallejo,94592,CA,(707) 556-8921,No Data,Adam,Clark,aclark@vcusd.org,801
+4970656,Sonoma,Cloverdale Unified,97 School Street,Cloverdale,95425,CA,(707) 894-1920,No Data,Jeremy,Decker,deckerj@cusd.org,734
+4970680,Sonoma,Forestville Union Elementary,6321 Highway 116,Forestville,95436,CA,(707) 887-9767,No Data,Phyllis,Parisi,pparisi@forestvilleusd.org,842
+4970706,Sonoma,Geyserville Unified,1300 Moody Lane,Geyserville,95441,CA,(707) 857-3592,No Data,Deborah,Bertolucci,dbert@gusd.com,748
+4970722,Sonoma,Guerneville Elementary,14630 Armstrong Woods Road,Guerneville,95446,CA,(707) 869-2864,No Data,Dana,Pedersen,dpedersen@guernevilleschool.org,856
+4970730,Sonoma,Harmony Union Elementary,1935 Bohemian Highway,Occidental,95465,CA,(707) 874-1205,No Data,Rene,McBride,rmcbride@harmonyusd.org,870
+4970763,Sonoma,Horicon Elementary,35555 Annapolis Road,Annapolis,95412,CA,(707) 886-5322,No Data,Jeffrey,McFarland,jmcfarland@horiconsd.org,683
+4970789,Sonoma,Kenwood,230 Randolph Avenue,Kenwood,95452,CA,(707) 833-2500,No Data,Robert,Bales,bbales@kenwood.k12.ca.us,890
+5471985,Tulare,Liberty Elementary,1771 East Pacific Avenue,Tulare,93274,CA,(559) 686-1675,No Data,Keri,Montoya,kmontoya@liberty.k12.ca.us,722
+4970797,Sonoma,Liberty Elementary,170 Liberty School Road,Petaluma,94952,CA,(707) 795-4380,No Data,Chris,Rafanelli,crafanelli@libertysd.org,722
+4970805,Sonoma,Mark West Union Elementary,305 Mark West Springs Road,Santa Rosa,95404,CA,(707) 524-2970,No Data,Ron,Calloway,rcalloway@mwusd.org,862
+4970813,Sonoma,Monte Rio Union Elementary,20700 Foothill Drive,Monte Rio,95462,CA,(707) 865-2266,No Data,Nathan,Myers,nmyers@monteriousd.org,875
+4970821,Sonoma,Montgomery Elementary,18620 Fort Ross Road,Cazadero,95421,CA,(707) 632-5221,No Data,John,Quinn,johnpquinn@sbcglobal.net,886
+4970847,Sonoma,Old Adobe Union,845 Crinella Drive,Petaluma,94954,CA,(707) 765-4322,No Data,Craig,Conte,cconte@oldadobe.org,778
+4970896,Sonoma,Rincon Valley Union Elementary,1000 Yulupa Avenue,Santa Rosa,95405,CA,(707) 542-7375,No Data,Tracy,Smith,tsmith@rvusd.org,858
+4970938,Sonoma,Sebastopol Union Elementary,7611 Huntley Street,Sebastopol,95472,CA,(707) 829-4570,No Data,Linda,Irving,lirving@sebusd.org,847
+4970953,Sonoma,Sonoma Valley Unified,17850 Railroad Avenue,Sonoma,95476,CA,(707) 935-6000,No Data,Socorro,Shiels,sshiels@sonomaschools.org,733
+4973882,Sonoma,Cotati-Rohnert Park Unified,7165 Burton Avenue,Rohnert Park,94928,CA,(707) 792-4722,No Data,Tony,Roehrick,tony_roehrick@crpusd.org,544
+4975358,Sonoma,Windsor Unified,9291 Old Redwood Highway  Building 500,Windsor,95492,CA,(707) 837-7701,No Data,Brandon,Krueger,bkrueger@wusd.org,767
+4975390,Sonoma,Healdsburg Unified,1028 Prince Street,Healdsburg,95448,CA,(707) 431-3488,No Data,Chris,Vanden Heuvel,cvandenheuvel@husd.com,780
+5071043,Stanislaus,Ceres Unified,2503 Lawrence Street,Ceres,95307,CA,(209) 556-1500,No Data,Scott,Siegel,ssiegel@ceres.k12.ca.us,866
+5071068,Stanislaus,Denair Unified,3460 Lester Road,Denair,95316,CA,(209) 632-7514,No Data,Terry,Chevalier-Metzger,tmetzger@dusd.k12.ca.us,857
+5071076,Stanislaus,Empire Union Elementary,116 North McClure Road,Modesto,95357,CA,(209) 521-2800,No Data,David,Garcia,dgarcia@empire.k12.ca.us,819
+5071100,Stanislaus,Hickman Community Charter,13306 Fourth Street,Hickman,95323,CA,(209) 874-1816,200,Paul,Gardner,pgardner@hickmanschools.org,860
+5071134,Stanislaus,Keyes Union,4801 Lucinda Avenue,Keyes,95328,CA,(209) 669-2921,No Data,Helio,Brasil,hbrasil@keyes.k12.ca.us,781
+5071142,Stanislaus,Knights Ferry Elementary,12726 Dent Street,Knights Ferry,95361,CA,(209) 881-3382,No Data,Janet,Skulina,jskulina@kfesd.org,851
+5071175,Stanislaus,Modesto City High,426 Locust Street,Modesto,95351,CA,(209) 574-1500,No Data,Sara,Noguchi,noguchi.s@monet.k12.ca.us,822
+5071209,Stanislaus,Paradise Elementary,3361 California Avenue,Modesto,95358,CA,(209) 524-0184,No Data,Heath,Thomason,hthomason@paradiseesd.org,862
+5071217,Stanislaus,Patterson Joint Unified,510 Keystone Boulevard,Patterson,95363,CA,(209) 895-7700,No Data,Phlip,Alfano,palfano@patterson.k12.ca.us,843
+5071266,Stanislaus,Salida Union Elementary,4801 Sisk Road,Salida,95368,CA,(209) 545-0339,No Data,Twila,Tosh,ttosh@salida.k12.ca.us,736
+5071290,Stanislaus,Sylvan Union Elementary,605 Sylvan Avenue,Modesto,95350,CA,(209) 574-5000,No Data,Debra,Hendricks,dhendricks@sylvan.k12.ca.us,831
+5073601,Stanislaus,Newman-Crows Landing Unified,1223 Main Street,Newman,95360,CA,(209) 862-2933,No Data,Randy,Fillpot,rfillpot@nclusd.k12.ca.us,750
+5075549,Stanislaus,Hughson Unified,6815 Hughson Avenue,Hughson,95326,CA,(209) 883-4428,No Data,Brenda,Smith,bsmith@hughson.k12.ca.us,820
+5075556,Stanislaus,Riverbank Unified,6715 Seventh Street,Riverbank,95367,CA,(209) 869-2538,120,Daryl,Camp,dcamp@riverbank.k12.ca.us,513
+5075572,Stanislaus,Waterford Unified,219 North Reinway Avenue  Building 2,Waterford,95386,CA,(209) 874-1809,4,Don,Davis,dondavis@waterford.k12.ca.us,754
+5075739,Stanislaus,Turlock Unified,1574 East Canal,Turlock,95380,CA,(209) 667-0633,No Data,Dana,Trevethan,dtrevethan@turlock.k12.ca.us,848
+5171365,Sutter,Browns Elementary,1248 Pacific Avenue,Rio Oso,95674,CA,(530) 633-2523,No Data,Mike,Scully,mikes@sutter.k12.ca.us,834
+5171373,Sutter,East Nicolaus Joint Union High,2454 Nicolaus Avenue,Nicolaus,95659,CA,(530) 656-2255,No Data,Mark,Beebe,mbeebe@eastnicolaus.k12.ca.us,807
+5171399,Sutter,Live Oak Unified,2201 Pennington Road,Live Oak,95953,CA,(530) 695-5400,No Data,Mathew,Gulbrandsen,mgulbran@lousd.k12.ca.us,779
+5171415,Sutter,Meridian Elementary,15898 Central Street,Meridian,95957,CA,(530) 696-2604,103,Marty,Ofenham,martyo@sutter.k12.ca.us,748
+5171431,Sutter,Pleasant Grove Joint Union,3075 Howsley Road,Pleasant Grove,95668,CA,(916) 655-3235,No Data,Dave,Tarr,davet@sutter.k12.ca.us,875
+5171449,Sutter,Sutter Union High,2665 Acacia Street,Sutter,95982,CA,(530) 822-5161,No Data,Ryan,Robison,rrobison@sutterhigh.k12.ca.us,761
+5171456,Sutter,Winship-Robbins,17451 Pepper Street,Robbins,95676,CA,(530) 738-4386,No Data,Dawn,Carl,dawnc@sutter.k12.ca.us,746
+5271506,Tehama,Corning Union High,643 Blackburn Avenue,Corning,96021,CA,(530) 824-8000,No Data,Jared,Caylor,jcaylor@corninghs.org,719
+5271514,Tehama,Elkins Elementary,2960 Elkins Road,Paskenta,96074,CA,(530) 833-5582,No Data,Marla,Katzler,mkatzler@elkinsschoolca.org,756
+5271530,Tehama,Flournoy Union Elementary,15850 Paskenta Road,Flournoy,96029,CA,(530) 833-5331,No Data,Lane,Bates,lbates@flournoyschool.org,794
+5271548,Tehama,Gerber Union Elementary,23014 Chard Avenue,Gerber,96035,CA,(530) 385-1041,No Data,Jenny,Montoya,jmontoya@gerberschool.org,760
+5271563,Tehama,Lassen View Union Elementary,10818 Highway 99-E,Los Molinos,96055,CA,(530) 527-5162,No Data,Gerard,Walker,jwalker@lassenview.org,894
+5371662,Trinity,Burnt Ranch Elementary,251 Burnt Ranch School Road,Burnt Ranch,95527,CA,(530) 629-2543,No Data,Kathleen,Graham,kgraham@tcoek12.org,827
+5371696,Trinity,Douglas City Elementary,100 School Road,Douglas City,96024,CA,(530) 623-6350,No Data,Shannon,Ross,sross@tcoek12.org,846
+5371738,Trinity,Junction City Elementary,430 Red Hill Road,Junction City,96048,CA,(530) 623-6381,No Data,Christine,Camara,ccamara@tcoek12.org,805
+5371746,Trinity,Lewiston Elementary,685 Lewiston Road,Lewiston,96052,CA,(530) 778-3984,No Data,Melissa,Madigan,mmadigan@tcoek12.org,792
+5375028,Trinity,Mountain Valley Unified,231 Oak Avenue,Hayfork,96041,CA,(530) 628-5265,No Data,Debbie,Miller,dmiller@mvusd.us,763
+5376513,Trinity,Trinity Alps Unified,321 Victory Lane,Weaverville,96093,CA,(530) 623-6104,252,Jaime,Green,jgreen@tausd.org,741
+5471803,Tulare,Alpaugh Unified,5313 Road 39,Alpaugh,93201,CA,(559) 949-8413,No Data,Gary,Mekeel,garymekeel@alpaugh.k12.ca.us,758
+5471860,Tulare,Cutler-Orosi Joint Unified,12623 Avenue 416,Orosi,93647,CA,(559) 528-4763,No Data,Yolanda,Valdez,yvaldez@cojusd.org,604
+5471894,Tulare,Ducor Union Elementary,23761 Avenue 56,Ducor,93218,CA,(559) 534-2261,No Data,Isidro,Rodriguez,irodriguez@ducorschool.com,779
+5471902,Tulare,Earlimart Elementary,785 East Center Avenue,Earlimart,93219,CA,(661) 849-4241,No Data,Philip,Nystrom,pnystrom@earlimart.org,723
+5471993,Tulare,Lindsay Unified,371 East Hermosa Street,Lindsay,93247,CA,(559) 562-5111,5109,Thomas,Rooney,trooney@lindsay.k12.ca.us,410
+5472041,Tulare,Pixley Union Elementary,300 North School Street,Pixley,93256,CA,(559) 757-3131,No Data,Heather,Pilgrim  Ed.S,hpilgrim@pixley.k12.ca.us,678
+5472082,Tulare,Richgrove Elementary,20812 Grove Drive,Richgrove,93261,CA,(661) 725-2424,No Data,Mario,Millan,mariom@richgrove.org,697
+5472116,Tulare,Sequoia Union Elementary,23958 Avenue 324,Lemon Cove,93244,CA,(559) 564-2106,No Data,Perry,Jensen,pjensen@sequoiaunion.org,831
+5472132,Tulare,Springville Union Elementary,35424 Ward Avenue,Springville,93265,CA,(559) 539-2605,No Data,Connie,Owens,connies@ocsnet.net,817
+5472140,Tulare,Stone Corral Elementary,15590 Avenue 383,Visalia,93292,CA,(559) 528-4455,No Data,Christopher,Kemper,ckemper@stone-corral.k12.ca.us,543
+5472157,Tulare,Strathmore Union Elementary,19811 Orange Belt Drive,Strathmore,93267,CA,(559) 568-1283,No Data,Shelly,Long,slong@suesd.k12.ca.us,762
+5472199,Tulare,Terra Bella Union Elementary,9121 Road 240,Terra Bella,93270,CA,(559) 535-4451,No Data,Guadalupe,Roman,groman@tbuesd.org,721
+5472207,Tulare,Three Rivers Union Elementary,41932 Sierra Drive,Three Rivers,93271,CA,(559) 561-4466,No Data,Susan,Sherwood,spsherwood@three-rivers.k12.ca.us,833
+5472215,Tulare,Tipton Elementary,370 North Evans Road,Tipton,93272,CA,(559) 752-4213,No Data,Stacey,Bettencourt,sbettencourt@tipton.k12.ca.us,788
+5472223,Tulare,Traver Joint Elementary,36736 Canal Drive,Traver,93673,CA,(559) 897-2755,No Data,Steve,Ramirez,sramirez@traversd.com,731
+5475325,Tulare,Farmersville Unified,571 East Citrus,Farmersville,93223,CA,(559) 592-2010,No Data,Paul,Seviilano,psevillano@farmersville.k12.ca.us,713
+5475523,Tulare,Porterville Unified,600 West Grand Avenue,Porterville,93257,CA,(559) 793-2400,No Data,Nate,Nelson,nlnelson@portervilleschools.org,833
+5476794,Tulare,Woodlake Unified,300 West Whitney Avenue,Woodlake,93286,CA,(559) 564-8081,8111,Alfonso,Gamino,agamino@w-usd.org,717
+5572348,Tuolumne,Columbia Union,22540 Parrotts Ferry Road,Columbia,95310,CA,(209) 532-0202,No Data,Joseph,Aldridge,jaldridge@cusd49.com,854
+5572363,Tuolumne,Jamestown Elementary,18299 Fifth Avenue,Jamestown,95327,CA,(209) 984-4058,3154,Contessa,Pelfrey,cpelfrey@jespanthers.org,688
+5572397,Tuolumne,Soulsbyville Elementary,20300 Soulsbyville Road,Soulsbyville,95372,CA,(209) 532-1419,3363,Jeff,Winfield,jwinfield@soulsbyvilleschool.com,830
+5572413,Tuolumne,Summerville Union High,17555 Tuolumne Road,Tuolumne,95379,CA,(209) 928-3498,No Data,Michael,Merrill,mmerrill@summbears.net,707
+5575184,Tuolumne,Big Oak Flat-Groveland Unified,19177 Hwy 120,Groveland,95321,CA,(209) 962-5765,No Data,Wynette,Hilton,whilton@bofg.org,699
+5672454,Ventura,Fillmore Unified,627 Sespe Avenue,Fillmore,93016,CA,(805) 524-6000,No Data,Adrian,Palazuelos,apalazuelos@fillmoreusd.org,748
+5672462,Ventura,Hueneme Elementary,205 North Ventura Road,Port Hueneme,93041,CA,(805) 488-3588,9100,Christine,Walker,cwalker@hueneme.org,736
+5672520,Ventura,Ojai Unified,414 East Ojai Avenue,Ojai,93023,CA,(805) 640-4300,No Data,Tiffany,Morse,tmorse@ojaiusd.org,729
+5672546,Ventura,Oxnard Union High,309 South K Street,Oxnard,93030,CA,(805) 385-2500,No Data,Penelope,DeLeon,penelope.deleon@ouhsd.k12.ca.us,908
+5672553,Ventura,Pleasant Valley,600 Temple Avenue,Camarillo,93010,CA,(805) 482-2763,No Data,Angelica,Ramsey,aramsey@pleasantvalleysd.org,886
+5672561,Ventura,Rio Elementary,2500 East Vineyard Avenue,Oxnard,93036,CA,(805) 485-3111,No Data,John,Puglisi,jpuglisi@rioschools.org,767
+5672603,Ventura,Simi Valley Unified,101 West Cochran St,Simi Valley,93065,CA,(805) 306-4500,4002,Jason,Peplinski,jason.peplinski@simivalleyusd.org,737
+5672611,Ventura,Somis Union,5268 North Street,Somis,93066,CA,(805) 386-8258,No Data,Colleen,Robertson,dr.robertson@staff.somisusd.org,781
+5672652,Ventura,Ventura Unified,255 West Stanley Avenue  Suite 100,Ventura,93001,CA,(805) 641-5000,No Data,Roger,Rice,roger.rice@venturausd.org,496
+5673759,Ventura,Conejo Valley Unified,1400 East Janss Road,Thousand Oaks,91362,CA,(805) 497-9511,201,Mark,McLaughlin,mmclaughlin@conejousd.org,898
+5673874,Ventura,Oak Park Unified,5801 Conifer Street,Oak Park,91377,CA,(818) 735-3200,No Data,Anthony,Knight,tknight@opusd.org,916
+5673940,Ventura,Moorpark Unified,5297 Maureen Lane,Moorpark,93021,CA,(805) 378-6300,No Data,Kelli,Hays,khays@mrpk.org,646
+5772678,Yolo,Davis Joint Unified,526 B Street,Davis,95616,CA,(530) 757-5300,142,John,Bowes,superintendent@djusd.net,882
+5772686,Yolo,Esparto Unified,26675 Plainfield Street,Esparto,95627,CA,(530) 787-3446,No Data,Christina,Goennier,cgoennier@espartok12.org,479
+5772702,Yolo,Winters Joint Unified,909 West Grant Avenue,Winters,95694,CA,(530) 795-6100,No Data,Todd,Cutler,tcutler@wintersjusd.org,757
+5772710,Yolo,Woodland Joint Unified,435 Sixth Street,Woodland,95695,CA,(530) 662-0201,No Data,Thomas,Pritchard,thomas.pritchard@wjusd.org,736
+5872728,Yuba,Camptonville Elementary,16585 School Street,Camptonville,95922,CA,(530) 288-3277,No Data,Sandra,Ross,sross@cville.k12.ca.us,743
+5872736,Yuba,Marysville Joint Unified,1919 B Street,Marysville,95901,CA,(530) 741-6000,No Data,Gary,Cena,gcena@mjusd.com,729
+5872744,Yuba,Plumas Lake Elementary,2743 Plumas School Road,Plumas Lake,95961,CA,(530) 743-4428,No Data,Jeff,Roberts,jroberts@plusd.org,876
+5872751,Yuba,Wheatland,111 Main Street,Wheatland,95692,CA,(530) 633-3130,No Data,Craig,Guensler,cguensler@wheatland.k12.ca.us,837
+1977081,Los Angeles,SBE - Celerity Himalia,5100 South Broadway Avenue,Los Angeles,90037,CA,(310) 904-2012,No Data,Nadia,Shaiq,nshaiq@isanaacademies.og,780
+1976968,Los Angeles,SBE - Academia Avance Charter,115 North Avenue 53,Highland Park,90042,CA,(323) 230-7270,No Data,Ricardo,Mireles,ricardo.mireles@academiaavance.com,780
+1976992,Los Angeles,SBE - Prepa Tec Los Angeles High,4210 East Gage Street,Bell,90201,CA,(323) 800-2741,No Data,Jamie,Valenzuela-Mumau,j.valenzuela@altaps.org,780
+1974831,Los Angeles,Compton Unified ROP,1104 East 148th Street,Compton,90220,CA,(310) 898-6470,55760,No Data,No Data,No Data,780
+1974443,Los Angeles,Los Angeles County ROP,9300 East Imperial Way,Downey,90242,CA,(562) 922-6850,No Data,Arturo,Delgado,delgado_arturo@lacoe.edu,780
+1974336,Los Angeles,Southern California ROC,2300 Crenshaw Boulevard,Torrance,90501,CA,(310) 224-4220,No Data,Atlas,Helaire,drhelaire@scroc.k12.ca.us,780
+1974427,Los Angeles,Long Beach Unified ROP,701 Locust Avenue,Long Beach,90813,CA,(562) 595-8893,No Data,Christopher,Steinhauser,cstein@lbschools.net,780
+1974773,Los Angeles,Hart ROP,21380 Centre Pointe Parkway,Santa Clarita,91350,CA,(661) 259-0033,231,No Data,No Data,No Data,780
+1974088,Los Angeles,La Puente Valley ROP,341 La Seda Road,La Puente,91744,CA,(626) 810-3300,No Data,Tami,Pearson,tpearson@lpvrop.org,780
+3674211,San Bernardino,Baldy View ROP,2890 Inland Empire Boulevard  Suite 100,Ontario,91764,CA,(909) 980-6490,No Data,Shelley,Adams,shelley_adams@bvrop.org,780
+1975697,Los Angeles,SBE - The School of Arts and Enterprise,295 North Garey Avenue,Pomona,91767,CA,(909) 622-0699,No Data,Lucille,Berger,lberger@thesae.k12.ca.us,780
+1974849,Los Angeles,San Antonio ROP,605 North Park Avenue,Pomona,91768,CA,(909) 469-2304,No Data,Enrique,Medina,enrique.medina@pusd.org,780
+1974195,Los Angeles,East San Gabriel Valley ROP,1501 Del Norte Avenue,West Covina,91790,CA,(626) 472-5121,No Data,Sherryl,Carter,scarter@esgvrop.org,780
+3777107,San Diego,SBE - Sweetwater Secondary,3252 Bonita Road,Chula Vista,91910,CA,(858) 678-3908,No Data,Hayley,Beaupre,hbeaupre@sweetwatersecondary.com,780
+3777164,San Diego,SBE - College Preparatory Middle - La Mesa Spring Valley,10269 Madrid Way,Spring Valley,91977,CA,(619) 303-2782,No Data,Christina,Callaway,ccallaway@mycpms.net,780
+3776851,San Diego,Bonsall Unified,31505 Old River Road,Bonsall,92003,CA,(760) 631-5200,1001,David,Jones,david.jones@bonsallusd.com,780
+3777099,San Diego,SBE - Grossmont Secondary,111 Fletcher Parkway,El Cajon,92020,CA,(858) 678-3908,No Data,Hayley,Beaupre,hbeaupre@grossmontcharter.com,780
+3777032,San Diego,SBE - Audeo Charter II,3821 Plaza Drive  Suite 402,Oceanside,92056,CA,(858) 678-2050,No Data,Veronica,Ballman,vballman@audeo2.com,780
+3777172,San Diego,SBE - Baypoint Preparatory Academy San Diego,1175 Linda Vista Drive,San Marcos,92078,CA,(760) 471-0847,No Data,Heather,Herrera,hherrera@baypointprep.org,780
+3774526,San Diego,San Diego County ROP,6401 Linda Vista Road,San Diego,92111,CA,(858) 292-3514,No Data,Randolph,Ward,randolph.ward@sdcoe.net,780
+3367041,Riverside,Desert Center Unified,1434 Kaiser Road,Desert Center,92239,CA,(760) 413-2646,No Data,Susan,Scott,suescott@eaglemtnschool.com,780
+1374401,Imperial,Imperial Valley ROP,687 State Street,El Centro,92243,CA,(760) 482-2600,No Data,Edwin,Obergfell,eobergfell@ivrop.org,780
+3667827,San Bernardino,Oro Grande,19900 National Trails Hwy,Oro Grande,92368,CA,(760) 243-5884,No Data,Heather,Griggs,heather_griggs@orogrande.org,780
+3674138,San Bernardino,Colton-Redlands-Yucaipa ROP,1214 Indiana Court,Redlands,92374,CA,(909) 793-3115,No Data,Stephanie,Houston,stephanie_houston@cry-rop.org,780
+1463271,Inyo,Death Valley Unified,Old State Highway 127,Shoshone,92384,CA,(760) 852-4303,No Data,Jim,Copeland,jcopeland@deathvalleyschools.org,780
+3674518,San Bernardino,San Bernardino County ROP,144 North Mount View Avenue,San Bernardino,92408,CA,(909) 252-4559,No Data,Kit,Alvares,kit_alvares@sbcss.k12.ca.us,780
+3610363,San Bernardino,San Bernardino County Office of Education,601 North E Street,San Bernardino,92415,CA,(909) 386-2704,No Data,Ted,Alejandre,ted.alejandre@sbcss.net,780
+3374492,Riverside,Riverside County Office Of Education ROP,3939 13th Street,Riverside,92502,CA,(909) 826-6797,No Data,Ronald,Vito,rvito@rcoe.us,780
+3331625,Riverside,California School for the Deaf-Riverside (State Special Schl),3044 Horace Street,Riverside,92506,CA,(951) 248-7700,No Data,Nancy,Hlibok-Amann,nhlibok-amann@csdr-cde.ca.gov,780
+3376943,Riverside,SBE - Baypoint Preparatory Academy,26089 Girard Street,Hemet,92544,CA,(951) 658-1700,No Data,Nancy,Spencer,nspencer@bayshoreprep.org,780
+3074120,Orange,Coastline ROP,1001 Presidio Square,Costa Mesa,92626,CA,(714) 979-1955,No Data,Carol,Hume,chume@coastlinerop.net,780
+3010306,Orange,Orange County Department of Education,200 Kalmus Drive,Costa Mesa,92628,CA,(714) 966-4000,No Data,Al,Mijares,amijares@ocde.us,780
+3066530,Orange,Huntington Beach City Elementary,8750 Dorsett Drive,Huntington Beach,92646,CA,(714) 378-2021,No Data,Gregg,Haulk,ghaulk@hbcsd.us,780
+3074112,Orange,College and Career Advantage,33122 Valle Road,San Juan Capistrano,92675,CA,(949) 234-9464,No Data,Patricia,Romo,pjromo@capousd.org,780
+3076893,Orange,SBE - Magnolia Science Academy Santa Ana,2840 West 1st Street,Santa Ana,92703,CA,(714) 479-0115,No Data,Varol,Gurler,vgurler@magnoliapublicschools.org,780
+3074104,Orange,North Orange County ROP-Adult,385 North Muller Street,Anaheim,92801,CA,(714) 502-5877,No Data,Terri,Giamarino,tgiamarino@nocrop.us,780
+3066423,Orange,Anaheim Elementary,1001 South East Street,Anaheim,92805,CA,(714) 517-7500,No Data,Christopher,Downing,cdowning@anaheimelementary.org,780
+5674617,Ventura,Ventura County ROP,5189 Verdugo Way,Camarillo,93012,CA,(805) 383-1900,No Data,Stan,Mantooth,smantooth@vcoe.org,780
+5676828,Ventura,Santa Paula Unified,201 South Steckel Drive,Santa Paula,93060,CA,(805) 933-8802,No Data,Ed,Cora,ecora@santapaulaunified.org,780
+4277222,Santa Barbara,SBE - Olive Grove Charter - Santa Barbara,1933 Cliff Drive Street11,Santa Barbara,93109,CA,(805) 623-1111,No Data,Laura,Mudge,lmudge@olivegrovecharter.org,780
+4210421,Santa Barbara,Santa Barbara County Office of Education,4400 Cathedral Oaks Road,Santa Barbara,93110,CA,(805) 964-4711,No Data,Susan,Salcido,ssalcido@sbceo.org,780
+4274567,Santa Barbara,Santa Barbara County ROP,3970 la Colina Road,Santa Barbara,93160,CA,(805) 967-4711,No Data,Sheryl,Malone,smalone@sbceo.org,780
+5471951,Tulare,Hot Springs Elementary,40505 Hot Springs Drive,California Hot Springs,93207,CA,(661) 548-6544,No Data,Tom,Byars,tom.byars@hotspringsschool.org,780
+5476836,Tulare,Exeter Unified,215 North Crespi Avenue,Exeter,93221,CA,(559) 592-9421,No Data,George,Eddy,geddy@exeter.k12.ca.us,780
+1964584,Los Angeles,Gorman Joint,49847 Gorman School Road,Gorman,93243,CA,(661) 248-6441,No Data,Johannis,Andrews,jandrews@lws.lacoe.edu,780
+1674708,Kings,Kings County ROP,876 East D St,Lemoore,93245,CA,(559) 589-7026,No Data,Margie,Newton,margie.newton@kings.k12.ca.us,780
+5410546,Tulare,Tulare County Office of Education,6200 South Mooney Boulevard,Visalia,93277,CA,(559) 733-6300,No Data,Tim,Hire,tim.hire@tcoe.org,780
+1563354,Kern,Blake Elementary,19165 Main Street,Woody,93287,CA,(661) 536-8559,No Data,Gary,Bray,gabray@kern.org,780
+1510157,Kern,Kern County Office of Education,1300 17th Street  City Centre,Bakersfield,93301,CA,(661) 636-4621,No Data,Mary,Barlow,mabarlow@kern.org,780
+1574807,Kern,Kern High ROC,501 South Mount Vernon Avenue,Bakersfield,93307,CA,(661) 831-3327,No Data,Bryon,Schaefer,No Data,780
+1574765,Kern,Kern County ROP,5801 Sundale Avenue,Bakersfield,93309,CA,(661) 824-9313,No Data,Tom,Anspach,toanspach@kern.org,780
+1573544,Kern,Rio Bravo-Greeley Union Elementary,6521 Enos Lane,Bakersfield,93314,CA,(661) 589-2696,No Data,Jennifer,Hedge,jhedge@rbgusd.org,780
+4010405,San Luis Obispo,San Luis Obispo County Office of Education,3350 Education Drive,San Luis Obispo,93405,CA,(805) 543-7732,No Data,James,Brescia,jbrescia@slocoe.org,780
+2674898,Mono,Mono County ROC/P,37 Emigrant Street,Bridgeport,93517,CA,(760) 932-7311,No Data,No Data,No Data,No Data,780
+1964626,Los Angeles,Hughes-Elizabeth Lakes Union Elementary,16633 Elizabeth Lake Road,Lake Hughes,93532,CA,(661) 724-1231,302,Lori,Slaven,lslaven@heluesd.org,780
+2610264,Mono,Mono County Office of Education,451 Sierra Park Rd,Mammoth Lakes,93546,CA,(760) 934-0031,101,Stacey,Adler,sadler@monocoe.org,780
+5472009,Tulare,Monson-Sultana Joint Union Elementary,10643 Avenue 416,Dinuba,93618,CA,(559) 591-1634,110,Chris,Meyer,cmeyer@msschool.org,780
+2475317,Merced,Dos Palos Oro Loma Joint Unified,2041 Almond Street,Dos Palos,93620,CA,(209) 392-0200,No Data,Justin,Miller,jmiller@dpol.net,780
+2065185,Madera,Bass Lake Joint Union Elementary,40096 Indian Springs Road,Oakhurst,93644,CA,(559) 642-1555,No Data,Randall,Seals,rseals@basslakesd.org,780
+2065276,Madera,Raymond-Knowles Union Elementary,31828 Road 600,Raymond,93653,CA,(559) 689-3336,No Data,Michelle,Townsend,mtownsend@rkusd.org,780
+1074260,Fresno,Fresno ROP,11 South Teilman Street,Fresno,93706,CA,(559) 497-3860,No Data,Valerie,Vuicich,vvuicich@fcoe.org,780
+1010108,Fresno,Fresno County Office of Education,1111 Van Ness Avenue,Fresno,93721,CA,(559) 265-3000,No Data,Jim,Yovino,jyovino@fcoe.org,780
+2774054,Monterey,Mission Trails ROP,867 Laurel Drive,Salinas,93905,CA,(831) 753-4209,No Data,No Data,No Data,No Data,780
+2710272,Monterey,Monterey County Office of Education,901 Blanco Circle,Salinas,93912,CA,(831) 755-0300,No Data,Deneen,Guss,superintendent@montereycoe.org,780
+4168866,San Mateo,Belmont-Redwood Shores Elementary,2960 Hallmark Drive,Belmont,94002,CA,(650) 637-4800,No Data,Michael,Milliken,mmilliken@brssd.org,780
+4369609,Santa Clara,Mountain View-Los Altos Union High,1299 Bryant Avenue,Mountain View,94040,CA,(650) 940-4650,No Data,Jeff,Harding,jeff.harding@mvla.net,780
+4110413,San Mateo,San Mateo County Office of Education,101 Twin Dolphin Drive,Redwood City,94065,CA,(650) 802-5300,No Data,Nancy,Magee,nmagee@smcoe.org,780
+4374302,Santa Clara,Santa Clara County ROP,575 West Fremont Avenue,Sunnyvale,94087,CA,(408) 733-0881,No Data,No Data,No Data,No Data,780
+3874534,San Francisco,San Francisco County ROP,555 Franklin Street,San Francisco,94102,CA,(415) 241-6121,No Data,Richard,Carranza,richardcarranza@sfusd.edu,780
+3876927,San Francisco,SBE - The New School of San Francisco,655 De Haro Street,San Francisco,94107,CA,(415) 401-8489,No Data,Ryan,Chapman,ryan@newschoolsf.org,780
+3877230,San Francisco,SBE - Mary L. Booker Leadership Academy,2340 Jackson Street,San Francisco,94115,CA,(619) 569-0414,No Data,Terrence,Davis,tdavis@mlbla.org,780
+3877131,San Francisco,SBE - KIPP Bayview Elementary,350 Harbor Road,San Francisco,94124,CA,(415) 404-2602,No Data,Allie,Welch,opsadmin@kippbayarea.org,780
+777024,Contra Costa,SBE - Rocketship Futuro Academy,5120 Myrtle Drive,Concord,94521,CA,(301) 789-5469,No Data,Marie,Gil,mgil@rsed.org,780
+774344,Contra Costa,Contra Costa County ROP,77 Santa Barbara Road,Pleasant Hill,94523,CA,(925) 942-3368,No Data,Janet,Haun,jhaun@cccoe.k12.ca.us,780
+131609,Alameda,California School for the Blind (State Special Schl),500 Walnut Avenue,Fremont,94536,CA,(510) 794-3800,No Data,Gina,Ouellette,gouellette@csb-cde.ca.gov,780
+174021,Alameda,Mission Valley ROC/P,5019 Stevenson Boulevard,Fremont,94538,CA,(510) 657-1865,No Data,Thomas,Hanson,thanson@mvrop.org,780
+110017,Alameda,Alameda County Office of Education,313 West Winton Avenue,Hayward,94544,CA,(510) 887-0152,No Data,L Karen,Monroe,lkmonroe@acoe.org,780
+174013,Alameda,Eden Area ROP,26316 Hesperian Boulevard,Hayward,94545,CA,(510) 293-2900,No Data,Linda,Granger,lgranger@edenrop.org,780
+174005,Alameda,Tri-Valley ROP,1040 Florence Road,Livermore,94550,CA,(925) 455-4800,No Data,Julie,Duncan,jduncan@tvrop.org,780
+2874484,Napa,Napa County ROP,2121 Imola Avenue,Napa,94559,CA,(707) 253-6831,No Data,No Data,No Data,No Data,780
+177180,Alameda,SBE - Latitude 37.8 High,1112 29th Avenue,Oakland,94601,CA,(510) 838-0190,No Data,Lillian,Hsu,lhsu@efcps.net,780
+2174658,Marin,Marin County ROP,1111 Las Gallinas Avenue,San Rafael,94903,CA,(415) 499-5892,No Data,Mike,Grant,mgrant@marinschools.org,780
+2177065,Marin,SBE - Ross Valley Elementary,102 Marinda Drive,Fairfax,94930,CA,(415) 534-6970,No Data,Luke,Duchene,luke.duchene@rossvalleycharter.org,780
+3510355,San Benito,San Benito County Office of Education,460 Fifth Street,Hollister,95023,CA,(831) 637-5393,No Data,Krystal,Lomanto,klomanto@sbcoe.org,780
+4369534,Santa Clara,Los Gatos-Saratoga Union High,17421 Farley Road West,Los Gatos,95030,CA,(408) 354-5980,No Data,Michael,Grove,mgrove@lgsuhsd.org,780
+4369500,Santa Clara,Loma Prieta Joint Union Elementary,23800 Summit Road,Los Gatos,95033,CA,(408) 353-1101,No Data,Lisa,Fraser,l.fraser@loma.k12.ca.us,780
+3567579,San Benito,Willow Grove Union Elementary,11655 Airline Highway,Paicines,95043,CA,(831) 628-3256,No Data,Linda,Smith,lsmith@sbcoe.org,780
+3575259,San Benito,Aromas - San Juan Unified,2300 San Juan Highway,San Juan Bautista,95045,CA,(831) 623-4500,1214,Michele,Huntoon,mhuntoon@asjusd.k12.ca.us,780
+4474575,Santa Cruz,Santa Cruz County ROP,400 Encinal Street,Santa Cruz,95060,CA,(831) 466-5766,No Data,Mark,Hodges,markhodges@santacruz.k12.ca.us,780
+4377149,Santa Clara,SBE - KIPP Navigate College Prep,285 Blossom Hill Road,San Jose,95123,CA,(603) 986-7313,No Data,Michelle,Verrochi,opsadmin@kippbayarea.org,780
+4377115,Santa Clara,SBE - Perseverance Preparatory,1100 Shasta Avenue,San Jose,95126,CA,(408) 916-3685,No Data,Alexandria,LeeNatali,aleenatali@perseveranceprep.org,780
+4374294,Santa Clara,Metro Education,760 Hillsdale Avenue,San Jose,95136,CA,(408) 723-6464,No Data,Alyssa,Lynch,aLynch@metroed.net,780
+4369617,Santa Clara,Mount Pleasant Elementary,3434 Marten Avenue,San Jose,95148,CA,(408) 223-3710,No Data,Mariann,Engle,mengle@mpesd.org,780
+3974542,San Joaquin,San Joaquin County ROP,222 East Weber Avenue,Stockton,95202,CA,(209) 468-9005,No Data,Christopher,Kleinert,ckleinert@sjcoe.net,780
+3910397,San Joaquin,San Joaquin County Office of Education,2922 Transworld Drive,Stockton,95206,CA,(209) 468-4800,No Data,James,Mousalimas,jstanton@sjcoe.net,780
+2210223,Mariposa,Mariposa County Office of Education,5082 Old Highway North,Mariposa,95338,CA,(209) 742-0250,No Data,Jeff,Aranguena,jaranguena@mcusd.org,780
+2410249,Merced,Merced County Office of Education,632 West 13th Street,Merced,95341,CA,(209) 381-6600,No Data,Steve,Tietjen,stietjen@mcoe.org,780
+5074609,Stanislaus,Yosemite ROP,1100 H Street,Modesto,95354,CA,(209) 525-5093,No Data,Jeff,Albritton,Albritton.j@monet.k12.ca.us,780
+2465839,Merced,Snelling-Merced Falls Union Elementary,16099 North Highway 59,Snelling,95369,CA,(209) 563-6414,No Data,Alison,Kahl,akahl@snellingschool.org,780
+5510553,Tuolumne,Tuolumne County Superintendent of Schools,175 Fairview Lane,Sonora,95370,CA,(209) 536-2000,No Data,Cathy,Parker,cparker@tcsos.us,780
+5572421,Tuolumne,Twain Harte,22974 Twain Harte Drive  Room 21,Twain Harte,95383,CA,(209) 586-3772,No Data,Rick,Hennes,rhennes@twainharteschool.com,780
+4970912,Sonoma,Santa Rosa Elementary,211 Ridgway Avenue,Santa Rosa,95401,CA,(707) 890-3800,No Data,Diann,Kitamura,dkitamura@srcs.k12.ca.us,780
+4974591,Sonoma,Sonoma County ROP,5340 Skylane Boulevard,Santa Rosa,95403,CA,(707) 524-2720,No Data,No Data,No Data,No Data,780
+4970615,Sonoma,Bellevue Union,3150 Education Drive,Santa Rosa,95407,CA,(707) 542-5197,No Data,David,Alexander,dalexander@busd.org,780
+1774419,Lake,Lake County ROP,1152 South Main Street,Lakeport,95453,CA,(707) 262-4162,No Data,Brock,Falkenberg,bfalkenberg@lake-coe.k12.ca.us,780
+2373866,Mendocino,Potter Valley Community Unified,10401 Main Street,Potter Valley,95469,CA,(707) 743-2101,No Data,Holly,McLaughlin,hmclaughlin@pottervalleyschools.us,780
+4970888,Sonoma,Kashia Elementary,31510  Skaggs Springs Road,Stewarts Point,95480,CA,(707) 785-9682,No Data,Frances,Johnson,fjohnson@scoe.org,780
+2374468,Mendocino,Mendocino County ROC/ROP,2240 Old River Road,Ukiah,95482,CA,(707) 467-5123,No Data,Warren,Galletti,wgalletti@mcoe.us,780
+1776976,Lake,Upper Lake Unified,675 Clover Valley Road,Upper Lake,95485,CA,(707) 275-2655,No Data,Giovanni,Annous,gannous@ulusd.org,780
+1274393,Humboldt,Humboldt County ROP,901 Myrtle Avenue,Eureka,95501,CA,(707) 445-7018,No Data,Garry,Eagles,geagles@humboldt.k12.ca.us,780
+874351,Del Norte,Del Norte County ROP,301 West Washington Boulevard,Crescent City,95531,CA,(707) 464-0274,No Data,Coleen,Parker,cparker@delnorte.k12.ca.us,780
+1262935,Humboldt,Maple Creek Elementary,15933 Maple Creek Road,Korbel,95550,CA,(707) 668-5596,No Data,Wendy,Orlandi,worlandi@maplecreekschool.org,780
+1263040,Humboldt,Southern Humboldt Joint Unified,110 School Road,Miranda,95553,CA,(707) 943-1789,No Data,Don,Boyd,donboyd@sohumusd.com,780
+3174732,Placer,Forty-Niner ROP,360 Nevada Street,Auburn,95603,CA,(530) 889-5940,No Data,Sheryl,Ryder,sryder@placercoe.k12.ca.us,780
+374856,Amador,Amador County ROP,217 Rex Avenue,Jackson,95642,CA,(209) 257-5353,No Data,Elizabeth,Chapin-Pinotti,echapin-pinotti@amadorcoe.k12.ca.us,780
+3474500,Sacramento,Sacramento County ROP,10541 Norden Avenue,Mather,95655,CA,(916) 228-2463,No Data,No Data,No Data,No Data,780
+974377,El Dorado,Central Sierra ROP,337 Placerville Drive,Placerville,95667,CA,(530) 622-7130,No Data,No Data,No Data,No Data,780
+3166779,Placer,Alta-Dutch Flat Union Elementary,34050 Alta-Bonny Nook Road,Alta,95701,CA,(530) 389-8283,No Data,Michael,Wells,mwells@alta.k12.ca.us,780
+961986,El Dorado,Silver Fork Elementary,2701 Amber Trail,Pollock Pines,95726,CA,(530) 644-5416,No Data,Pat,Atkins,patkins@ppesd.org,780
+3432276,Sacramento,California Education Authority (CEA) Headquarters,8260 Longleaf Drive  Building C  2nd Floor,Elk Grove,95758,CA,(916) 683-7754,No Data,Troy,Fennel,troy.fennel@cdcr.ca.gov,780
+5774625,Yolo,Yolo County ROP,1280 Santa Anita Court  Suite 100,Woodland,95776,CA,(530) 668-3770,No Data,Jesse,Ortiz,No Data,780
+474682,Butte,Butte County ROP,2491 Carmichael Drive  Suite 500,Chico,95928,CA,(530) 879-7462,No Data,Susan,Steward,ssteward@bcoe.org,780
+2976877,Nevada,Penn Valley Union Elementary,17328 Penn Valley Drive Suite A,Penn Valley,95946,CA,(530) 432-7311,1,Torie,England,tengland@pvuesd.org,780
+3274278,Plumas,Plumas County ROP,50 Church Street,Quincy,95971,CA,(530) 283-6500,No Data,No Data,No Data,No Data,780
+1174385,Glenn,Glenn County ROP,451 South Villa Avenue,Willows,95988,CA,(530) 934-6575,No Data,John,Dunn,jdunn@glenncoe.org,780
+5174633,Sutter,Tri-County ROP,463 Second Street,Yuba City,95991,CA,(530) 822-2953,No Data,Julie,Duncan,jduncan@tvrop.org,780
+5110512,Sutter,Sutter County Office of Education,970 Klamath Lane,Yuba City,95993,CA,(530) 822-2900,No Data,Tom,Reusser,tomr@sutter.k12.ca.us,780
+4574583,Shasta,Shasta-Trinity ROP,4659 East Side Road,Redding,96001,CA,(530) 246-3302,No Data,No Data,No Data,No Data,780
+4570037,Shasta,Indian Springs Elementary,25299 Big Bend Road,Big Bend,96011,CA,(530) 337-6219,No Data,Clark,Redfield,clarkredfield@sbcglobal.net,780
+4770292,Siskiyou,Forks of Salmon Elementary,15616 Salmon River Road,Forks Of Salmon,96031,CA,(530) 462-4762,No Data,Christina,Cafferata,ccafferata@sisnet.ssku.k12.ca.us,780
+4569997,Shasta,French Gulch-Whiskeytown Elementary,11442 Cline Gulch Road,French Gulch,96033,CA,(530) 359-2151,No Data,Moira,Casey,mcasey@shastalink.k12.ca.us,780
+4570029,Shasta,Igo  Ono  Platina Union Elementary,6429 Placer Street,Igo,96047,CA,(530) 396-2841,No Data,Robert,Adams,rjadams@rsdnmp.org,780
+4770375,Siskiyou,Klamath River Union Elementary,30438 Walker Road,Horse Creek,96050,CA,(530) 496-3406,No Data,Kermith,Walters,kwalters@siskiyoucoe.net,780
+4570086,Shasta,Oak Run Elementary,27635 Oak Run to Fern Road,Oak Run,96069,CA,(530) 472-3241,No Data,Sue,Cooper,scooper@oakrunschool.org,780
+5274310,Tehama,Tehama County ROP,1135 Lincoln Street,Red Bluff,96080,CA,(530) 528-7323,No Data,Charles,Allen,No Data,780
+5371761,Trinity,Trinity Center Elementary,1 Trinity Vista Drive,Trinity Center,96091,CA,(530) 266-3342,No Data,Carole,Havens,carolehavens@tcoek12.org,780
+4774872,Siskiyou,Siskiyou ROP,431 Knapp Street,Yreka,96097,CA,(530) 842-6151,No Data,Kim,Greene,kgreene@sisnet.ssku.k12.ca.us,780
+2574450,Modoc,Modoc County ROP,139 West Henderson Street,Alturas,96101,CA,(530) 233-7102,No Data,No Data,No Data,No Data,780
+4674880,Sierra,WIlliam (R) Rouse ROP,604 B Main Street,Loyalton,96118,CA,(530) 993-4991,No Data,Mary,Genasci,smccallum@sierra-coe.k12.ca.us,780
+210025,Alpine,Alpine County Office of Education,43 Hawkside Drive,Markleeville,96120,CA,(530) 694-2230,No Data,Patrick,Traynor,ptraynor@alpinecoe.k12.ca.us,780
+1874740,Lassen,Lassen ROP,472-013 Johnstonville Rd  North,Susanville,96130,CA,(530) 252-1673,No Data,Bill,McCabe,No Data,780

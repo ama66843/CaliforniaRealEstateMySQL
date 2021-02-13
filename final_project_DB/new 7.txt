@@ -1,0 +1,167 @@
+-- MySQL Workbench Forward Engineering
+
+SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
+SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0;
+SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION';
+
+-- -----------------------------------------------------
+-- Schema mydb
+-- -----------------------------------------------------
+-- -----------------------------------------------------
+-- Schema databasetermendproject
+-- -----------------------------------------------------
+
+-- -----------------------------------------------------
+-- Schema databasetermendproject
+-- -----------------------------------------------------
+CREATE SCHEMA IF NOT EXISTS `databasetermendproject` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci ;
+USE `databasetermendproject` ;
+
+-- -----------------------------------------------------
+-- Table `databasetermendproject`.`countycrime`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `databasetermendproject`.`countycrime` (
+  `County` VARCHAR(150) NOT NULL,
+  `Violent crime` DOUBLE NULL DEFAULT NULL,
+  `Murder` DOUBLE NULL DEFAULT NULL,
+  `Rape` DOUBLE NULL DEFAULT NULL,
+  `Robbery` DOUBLE NULL DEFAULT NULL,
+  `Aggravated assault` DOUBLE NULL DEFAULT NULL,
+  `Property crime` DOUBLE NULL DEFAULT NULL,
+  `Burglary` DOUBLE NULL DEFAULT NULL,
+  `Larceny-theft` DOUBLE NULL DEFAULT NULL,
+  `Motor vehicle theft` DOUBLE NULL DEFAULT NULL,
+  `Arson` DOUBLE NULL DEFAULT NULL,
+  `Total law
+enforcement
+employees` DOUBLE NULL DEFAULT NULL,
+  `Crimesperofficer` DOUBLE NULL DEFAULT NULL,
+  PRIMARY KEY (`County`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb4
+COLLATE = utf8mb4_0900_ai_ci;
+
+
+-- -----------------------------------------------------
+-- Table `databasetermendproject`.`calizipinfo`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `databasetermendproject`.`calizipinfo` (
+  `Zip_Code` DOUBLE NOT NULL,
+  `County` VARCHAR(150) NULL DEFAULT NULL,
+  `City` TEXT NULL DEFAULT NULL,
+  `Place` TEXT NULL DEFAULT NULL,
+  `Type` TEXT NULL DEFAULT NULL,
+  `Area_Code` INT(11) NULL DEFAULT NULL,
+  `ALand` INT(11) NULL DEFAULT NULL,
+  `AWater` INT(11) NULL DEFAULT NULL,
+  `Lat` DOUBLE NULL DEFAULT NULL,
+  `Lon` DOUBLE NULL DEFAULT NULL,
+  `Mean` INT(11) NULL DEFAULT NULL,
+  `Median` INT(11) NULL DEFAULT NULL,
+  `Stdev` INT(11) NULL DEFAULT NULL,
+  PRIMARY KEY (`Zip_Code`),
+  INDEX `County` (`County` ASC) VISIBLE,
+  CONSTRAINT `calizipinfo_ibfk_1`
+    FOREIGN KEY (`County`)
+    REFERENCES `databasetermendproject`.`countycrime` (`County`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb4
+COLLATE = utf8mb4_0900_ai_ci;
+
+
+-- -----------------------------------------------------
+-- Table `databasetermendproject`.`properties`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `databasetermendproject`.`properties` (
+  `parcelid` TEXT NULL DEFAULT NULL,
+  `bathroomcnt` TEXT NULL DEFAULT NULL,
+  `bedroomcnt` TEXT NULL DEFAULT NULL,
+  `sqft` TEXT NULL DEFAULT NULL,
+  `garagecarcnt` TEXT NULL DEFAULT NULL,
+  `latitude` TEXT NULL DEFAULT NULL,
+  `longitude` TEXT NULL DEFAULT NULL,
+  `lotsizesqft` TEXT NULL DEFAULT NULL,
+  `regionidzip` TEXT NULL DEFAULT NULL,
+  `numstories` TEXT NULL DEFAULT NULL,
+  `yearbuilt` TEXT NULL DEFAULT NULL,
+  `price` TEXT NULL DEFAULT NULL)
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb4
+COLLATE = utf8mb4_0900_ai_ci;
+
+
+-- -----------------------------------------------------
+-- Table `databasetermendproject`.`property`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `databasetermendproject`.`property` (
+  `parcelid` DOUBLE NOT NULL,
+  `bathroomcnt` INT(11) NULL DEFAULT NULL,
+  `bedroomcnt` INT(11) NULL DEFAULT NULL,
+  `sqft` INT(11) NULL DEFAULT NULL,
+  `garagecarcnt` INT(11) NULL DEFAULT NULL,
+  `latitude` INT(11) NULL DEFAULT NULL,
+  `longitude` INT(11) NULL DEFAULT NULL,
+  `lotsizesqft` INT(11) NULL DEFAULT NULL,
+  `regionidzip` DOUBLE NULL DEFAULT NULL,
+  `numstories` INT(11) NULL DEFAULT NULL,
+  `yearbuilt` INT(11) NULL DEFAULT NULL,
+  `price` INT(11) NULL DEFAULT NULL,
+  PRIMARY KEY (`parcelid`),
+  INDEX `quack_idx` (`regionidzip` ASC) VISIBLE,
+  CONSTRAINT `quack`
+    FOREIGN KEY (`regionidzip`)
+    REFERENCES `databasetermendproject`.`calizipinfo` (`Zip_Code`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb4
+COLLATE = utf8mb4_0900_ai_ci;
+
+
+-- -----------------------------------------------------
+-- Table `databasetermendproject`.`schoolstats`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `databasetermendproject`.`schoolstats` (
+  `CDCode` DOUBLE NOT NULL,
+  `County` VARCHAR(150) NULL DEFAULT NULL,
+  `District` TEXT NULL DEFAULT NULL,
+  `Street` TEXT NULL DEFAULT NULL,
+  `City` TEXT NULL DEFAULT NULL,
+  `Zip` DOUBLE NULL DEFAULT NULL,
+  `State` TEXT NULL DEFAULT NULL,
+  `Phone` TEXT NULL DEFAULT NULL,
+  `Ext` TEXT NULL DEFAULT NULL,
+  `AdmFName` TEXT NULL DEFAULT NULL,
+  `AdmLName` TEXT NULL DEFAULT NULL,
+  `AdmEmail` TEXT NULL DEFAULT NULL,
+  `avg_API` INT(11) NULL DEFAULT NULL,
+  PRIMARY KEY (`CDCode`),
+  INDEX `County` (`County` ASC) VISIBLE,
+  INDEX `Zip` (`Zip` ASC) VISIBLE,
+  CONSTRAINT `schoolstats_ibfk_1`
+    FOREIGN KEY (`County`)
+    REFERENCES `databasetermendproject`.`countycrime` (`County`),
+  CONSTRAINT `schoolstats_ibfk_2`
+    FOREIGN KEY (`Zip`)
+    REFERENCES `databasetermendproject`.`calizipinfo` (`Zip_Code`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb4
+COLLATE = utf8mb4_0900_ai_ci;
+
+
+-- -----------------------------------------------------
+-- Table `databasetermendproject`.`userdetail`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `databasetermendproject`.`userdetail` (
+  `Fname` VARCHAR(200) NULL DEFAULT NULL,
+  `Lname` VARCHAR(200) NULL DEFAULT NULL,
+  `Email` VARCHAR(200) NOT NULL,
+  `Password` VARCHAR(200) NULL DEFAULT NULL,
+  `Contact` VARCHAR(15) NULL DEFAULT NULL,
+  PRIMARY KEY (`Email`))
+ENGINE = InnoDB
+DEFAULT CHARACTER SET = utf8mb4
+COLLATE = utf8mb4_0900_ai_ci;
+
+
+SET SQL_MODE=@OLD_SQL_MODE;
+SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
+SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;
